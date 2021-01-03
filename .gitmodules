@@ -1,0 +1,6 @@
+[submodule "gestores-de-partidas/scid"]
+	path = gestores-de-partidas/scid
+	url = https://aur.archlinux.org/scid.git
+[submodule "modulos-de-analisis/stockfish"]
+	path = modulos-de-analisis/stockfish
+	url = https://aur.archlinux.org/stockfish.git
