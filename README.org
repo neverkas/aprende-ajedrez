@@ -1,7 +1,11 @@
+#+TITLE: README.org
+
 * Herramientas
 ** Gestores de Partidas 
 *** Arena (GUI)
 *** SCID (GUI)
+**** Referencias
+     - [[https://sourceforge.net/p/scid/wiki/StartHere/][Documentación Oficial]]
 ** Módulos de Análisis de Ajedrez (Engines/Módulos)
    Se los conoce como *Chess Engines* ó *Módulos de Análisis*, los cuales se pueden cargar a un gestor de partidas 
    que tenga una interfaz gráfica (GUI) como scid ó Arena

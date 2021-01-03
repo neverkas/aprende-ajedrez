@@ -1,0 +1,2 @@
+#!/bin/sh
+exec "/usr/bin/tkscid" "/usr/share/scid/tcl/start.tcl" "$@"
