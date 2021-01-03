@@ -1,64 +1,65 @@
-#+TITLE: README.org
+#+TITLE: README
 
-* Herramientas
-** Gestores de Partidas 
-*** Arena (GUI)
-*** SCID (GUI)
-**** Conceptos
-     - Scid significa Shane's Chess Information Database, haciendo referencia a su creador.
-     - Es un software de código abierto, útil para jugar ajedrez
-     - Funciona como administrador de base de datos ó mejor dicho gestor de partidas porque realiza seguimiento de jugadores, analiza partidas jugadas, el de tipo de juego y tiempos de cada usuario.
-     - Permite configurar el juego según cada usuario (determinar tiempos, y nivel de dificultad)
-**** Referencias
-     1. [[https://sourceforge.net/p/scid/wiki/StartHere/][Documentación Oficial]]
-     2. [[https://www.gnu.org/philosophy/free-software-for-freedom.es.html][Por que Software Libre es mejor que Código Abierto - gnu.org]]
-** Módulos de Análisis de Ajedrez (Engines/Módulos)
-   - Conocidos como *Chess Engines* ó *Módulos de Análisis*
-   - Se pueden cargar en un *gestor de partidas* que disponga interfaz gráfica (GUI) como lo es el Scid ó Arena
+Creo este repositorio a modo de integrar el mundo del ajedrez, con el de la programación, y el de linux.
 
-     [[/images/bitboard.png]]
-*** Stockfish
-    - Es un motor de análisis de código abierto
-*** Stockfish (NNUE)
-**** Conceptos
-    - Versión mejorada del Stockfish clásico
-    - Su sigla *NNUE* significa *Funciones de Evaluación basadas en Redes Neuronales de forma eficiente*
-    - Reemplaza la función de evaluación con una red neuronal
-**** Referencias
-     1. [[https://thezugzwangblog.com/stockfish-nnue/][Stockfish NNUE, que es? - thezugzwangblog.com]]
-*** Komodo
+* Gestores de Partidas 
+** Arena (GUI)
+** SCID (GUI)
+*** Conceptos
+    - Scid significa Shane's Chess Information Database, haciendo referencia a su creador.
+    - Es un software de código abierto, útil para jugar ajedrez
+    - Funciona como administrador de base de datos ó mejor dicho gestor de partidas porque realiza seguimiento de jugadores, analiza partidas jugadas, el de tipo de juego y tiempos de cada usuario.
+    - Permite configurar el juego según cada usuario (determinar tiempos, y nivel de dificultad)
 *** Referencias
-    1. [[https://chess24.com/es/informate/noticias/como-piensan-y-operan-los-modulos-de-analisis][Como piensan y operan los módulos de análisis - chess24.com]]
-** Instalación
-   Agrego este apartado en caso del que sólo quiera agregar la configuración a su repositorio personal,
-   suponiendo que se utiliza la distribución Manjaro de GNU/Linux
+    1. [[https://sourceforge.net/p/scid/wiki/StartHere/][Documentación Oficial]]
+    2. [[https://www.gnu.org/philosophy/free-software-for-freedom.es.html][Por que Software Libre es mejor que Código Abierto - gnu.org]]
+* Módulos de Análisis de Ajedrez (Engines/Módulos)
+  - Conocidos como *Chess Engines* ó *Módulos de Análisis*
+  - Se pueden cargar en un *gestor de partidas* que disponga interfaz gráfica (GUI) como lo es el Scid ó Arena
+
+    [[/images/bitboard.png]]
+** Stockfish
+   - Es un motor de análisis de código abierto
+** Stockfish (NNUE)
+*** Conceptos
+   - Versión mejorada del Stockfish clásico
+   - Su sigla *NNUE* significa *Funciones de Evaluación basadas en Redes Neuronales de forma eficiente*
+   - Reemplaza la función de evaluación con una red neuronal
+*** Referencias
+    1. [[https://thezugzwangblog.com/stockfish-nnue/][Stockfish NNUE, que es? - thezugzwangblog.com]]
+** Komodo
+** Referencias
+   1. [[https://chess24.com/es/informate/noticias/como-piensan-y-operan-los-modulos-de-analisis][Como piensan y operan los módulos de análisis - chess24.com]]
+* Instalación y Configuración
+  Agrego este apartado en caso del que sólo quiera agregar la configuración a su repositorio personal,
+  suponiendo que se utiliza la distribución Manjaro de GNU/Linux
    
-   #+name: instalacion-paquetes-en-manjaro
-   #+BEGIN_SRC bash
-     # Instalamos el paquete git y tk
-     sudo pacman -S git tk
+  #+name: instalacion-paquetes-en-manjaro
+  #+BEGIN_SRC bash
+    # Instalamos el paquete git y tk
+    sudo pacman -S git tk
 
-     # suponiendo que tenemos la siguiente ruta creada
-     cd ~/Documentos/git/aprende-ajedrez/
-     git init
+    # suponiendo que tenemos la siguiente ruta creada
+    cd ~/Documentos/git/aprende-ajedrez/
+    git init
 
-     # agregamos los repositorios remotos oficiales como submodulos
-     git submodule add https://aur.archlinux.org/scid.git gestores-de-partidas/scid
-     git submodule add https://aur.archlinux.org/stockfish.git modulos-de-analisis/stockfish
+    # agregamos los repositorios remotos oficiales como submodulos
+    git submodule add https://aur.archlinux.org/scid.git gestores-de-partidas/scid
+    git submodule add https://aur.archlinux.org/stockfish.git modulos-de-analisis/stockfish
 
-     # registramos los submodulos
-     git submodule init
+    # registramos los submodulos
+    git submodule init
 
-     # actualizamos todos los submodulos a su última versión de producción
-     git submodule update
+    # actualizamos todos los submodulos a su última versión de producción
+    git submodule update
 
-     # instalamos los submodulos
-     cd gestores-de-partidas/scid && makepkg -si
-     cd ..
-     cd modulos-de-analisis/stockfish && makepkg -si
-   #+END_SRC
+    # instalamos los submodulos
+    cd gestores-de-partidas/scid && makepkg -si
+    cd ..
+    cd modulos-de-analisis/stockfish && makepkg -si
+  #+END_SRC
 
-** Bases de Datos
+* Bases de Datos
 *** Conceptos
     - Son una colección de partidas de ajedrez gratuita, periódicamente se agrega nuevas partidas
     - El formato por excelencia es PGN, como también CBV y CBH (por Chessbase), y si4 (por Scid)
