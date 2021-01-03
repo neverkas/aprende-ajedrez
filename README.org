@@ -15,8 +15,8 @@
 ** Módulos de Análisis de Ajedrez (Engines/Módulos)
    - Conocidos como *Chess Engines* ó *Módulos de Análisis*
    - Se pueden cargar en un *gestor de partidas* que disponga interfaz gráfica (GUI) como lo es el Scid ó Arena
-   
-     ![bitboard](images/bitboard.png)
+
+     ![bitboard](/images/bitboard.png)
 *** Stockfish
     - Es un motor de análisis de código abierto
 *** Stockfish (NNUE)
