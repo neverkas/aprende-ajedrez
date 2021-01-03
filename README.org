@@ -15,20 +15,27 @@
 ** Instalación
    #+name: instalacion-paquetes-en-manjaro
    #+BEGIN_SRC bash
-     # Instalamos el paquete tk
-     sudo pacman -S tk
+     # Instalamos el paquete git y tk
+     sudo pacman -S git tk
 
      # suponiendo que tenemos la siguiente ruta creada
-     cd ~/Documentos/git/aprende-ajedrez/utilidades
+     cd ~/Documentos/git/aprende-ajedrez/
+     git init
 
-     # clonamos los repositorios
-     git clone https://aur.archlinux.org/scid.git
-     git clone https://aur.archlinux.org/stockfish.git
+     # agregamos los repositorios remotos oficiales como submodulos
+     git submodule add https://aur.archlinux.org/scid.git gestores-de-partidas/scid
+     git submodule add https://aur.archlinux.org/stockfish.git modulos-de-analisis/stockfish
 
-     # instalamos los paquetes
-     cd scid && makepkg -si
+     # registramos los submodulos
+     git submodule init
+
+     # actualizamos todos los submodulos a su última versión de producción
+     git submodule update
+
+     # instalamos los submodulos
+     cd gestores-de-partidas/scid && makepkg -si
      cd ..
-     cd stockfish && makepkg -si
+     cd modulos-de-analisis/stockfish && makepkg -si
    #+END_SRC
 
 ** Bases de Datos
