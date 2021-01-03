@@ -1,0 +1,5 @@
+* Sincronizar tareas entre Trello y Org Mode
+    Posterior a poder exportar el contenido
+    En dispositivos moviles es más práctico usar trello
+* Adaptar tablero de Trello para Org Mode
+  Trello permite exportar los datos del tablero a json
