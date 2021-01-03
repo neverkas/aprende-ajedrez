@@ -1,0 +1,121 @@
+[Event "Jaques - Murray Chandler: El Mate de Anastasia #1"]
+[Site "https://lichess.org/study/AlyeM1c7/pzViFtii"]
+[Result "*"]
+[UTCDate "2020.12.28"]
+[UTCTime "18:52:49"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "3q1r1k/4N1pp/8/2p1R3/3n4/3Q4/5PPP/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qxh7+ { Sacrificamos la dama blanca para abrir la columna H y amenazar con la torre } { [%csl Rh7,Rg8,Rg6][%cal Rh8h7,Ge5h5,Rh5h7,Re7g8,Re7g6] } 1... Kxh7 2. Rh5# { El rey negro no puede huir, el caballo lo impide } { [%csl Rg8,Rg6][%cal Re7g8,Re7g6] } *
+
+
+[Event "Jaques - Murray Chandler: El Mate de Anastasia #2"]
+[Site "https://lichess.org/study/AlyeM1c7/ODFYB0Fw"]
+[Result "*"]
+[UTCDate "2020.12.28"]
+[UTCTime "19:14:07"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "1q3rbk/Q5pp/8/3P4/1r3n2/R3N3/2B2PPP/6K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Ne2+ 2. Kh1 (2. Kf1 { y en esta jugada (?) }) 2... Qxh2+ { Las negras sacrifican la dama negra, a cambio de un jaque mate } { [%csl Gh4,Rh3,Rg3,Rg1][%cal Gb4h4,Ge2g3,Ge2g1] } 3. Kxh2 { [%csl Rg1,Rg3,Gh4][%cal Re2g3,Re2g1,Gb4h4] } 3... Rh4# { [%csl Rg3,Rg1] } *
+
+
+[Event "Jaques - Murray Chandler: El Mate de Anastasia #3"]
+[Site "https://lichess.org/study/AlyeM1c7/vQ0vAwGY"]
+[Result "*"]
+[UTCDate "2020.12.28"]
+[UTCTime "19:27:54"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "5n1k/ppp1Nppp/1b6/6P1/2qp1PQ1/P7/1PPr4/1K5R w - - 0 1"]
+[SetUp "1"]
+
+1. Rxh7+ { Sacrificamos la torre para abrir la columna H } { [%csl Rf8,Gh7][%cal Gf8h7,Gg4c8,Rc8f8] } (1. g6 { Se me había ocurrido esta alternativa } 1... Nxg6 2. Qc8+ Nf8 3. Qxf8#) 1... Nxh7 2. Qc8+ (2. Qh3 Rh2 3. Qc8+ Nf8 4. Qxf8+ Kh7 5. Qg8# { [%csl Rg6,Rh8,Rh6][%cal Gg5h6,Re7g6] })  (2. Qh4 { no me salió con h4 })  (2. Qh5 { tampoco me salió con h5 }) 2... Nf8 { [%csl Rh6,Re7,Rg8,Rg6][%cal Rg5h6,Re7g8,Re7g6] } 3. Qxf8+ Kh7 4. Qg8# { [%csl Rg6,Rh5] } *
+
+
+[Event "Jaques - Murray Chandler: El Mate de Anastasia #4"]
+[Site "https://lichess.org/study/AlyeM1c7/3k9YweUD"]
+[Result "*"]
+[UTCDate "2020.12.28"]
+[UTCTime "20:12:27"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "6k1/p4p1p/3p1p2/2p1r3/2PnrqN1/P6P/1P1Q1PP1/3R1RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Ne2+ 2. Kh1 { Sacrificamos la dama para liberar la columna H (porque el peón nos comerá la dama) } { [%csl Rg4][%cal Rf4g4,Gh3g4] } 2... Qxg4 { [%csl Rg1,Rg3] } 3. hxg4 { Sacrificamos la torre para terminar el jaque con torre h4 } { [%csl Gh5,Gh4][%cal Ge5h5,Rg4h5,Ge4h4] } 3... Rh5+ 4. gxh5 Rh4# { Jaque mate! } { [%csl Rh2,Rg1][%cal Ge2g1,Gh4h1] } *
+
+
+[Event "Jaques - Murray Chandler: Falta Peón-F defensivo #1"]
+[Site "https://lichess.org/study/AlyeM1c7/IkOrG5G4"]
+[Result "*"]
+[UTCDate "2020.12.28"]
+[UTCTime "20:55:01"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b2r1k/ppp3pp/2n2qn1/2P1ppN1/2B2P2/2P5/P5PP/R1BQ1RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ Alfil impide que el rey negro se escape }
+1. Nxh7 { Sacrificamos el caballo para abrir la columna H } { [%csl Rh7][%cal Rh8h7] } 1... Kxh7 { [%csl Rg8,Rh6,Gh5][%cal Gd1h5,Rc4g8] } 2. Qh5# { [%csl Rg8][%cal Rc4g8] } *
+
+
+[Event "Jaques - Murray Chandler: Falta Peón-F defensivo #2"]
+[Site "https://lichess.org/study/AlyeM1c7/E14sD7zu"]
+[Result "*"]
+[UTCDate "2020.12.28"]
+[UTCTime "21:27:05"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b1k2r/1p3p2/p1p5/6p1/4P1p1/3B4/PqP1N1PB/R3QR1K b - - 0 1"]
+[SetUp "1"]
+
+1... Rxh2+ { Sacrificamos la torre negra en h2 para terminar de abrir la columna H } 2. Kxh2 Qh8+ { Obligamos al rey negro a encerrarse, la dama se protege con el peón g5 } { [%csl Rf3,Rh3,Rf4,Rf2][%cal Gh8h4] } 3. Kg3 { [%csl Rf4,Rf3] } (3. Kg1?! { como se resuelve (?) } 3... Qd4+ 4. Kh1 Qh8+) 3... Qh4# { [%csl Gh4,Rf4,Rf3,Rh3,Rf2,Rh2][%cal Gg5h4,Gg5f4,Gg4f3] } *
+
+
+[Event "Jaques - Murray Chandler: Falta Peón-F defensivo #3"]
+[Site "https://lichess.org/study/AlyeM1c7/9b9PEBiN"]
+[Result "*"]
+[UTCDate "2020.12.28"]
+[UTCTime "22:23:45"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b2r1k/ppq3pp/2n5/4ppN1/1bB2P2/4Q3/PPPN2PP/2KR3R w - - 0 1"]
+[SetUp "1"]
+
+{ [%csl Gf7] }
+1. Nxh7 { Sacrificamos el caballo para liberar la columna h } 1... Kxh7 { [%csl Rg8][%cal Gc4f7] } 2. Qh3+ { Obligamos a que el rey negrose encierre } { [%cal Gh7g6,Gh3g3,Gg3g5] } 2... Kg6 3. Qg3+ { Obligamos a que el rey negro se encierre } 3... Kf6 (3... Kh7?! { se repetiría la situación constantemente (?) }) 4. Qg5# { El rey ya no puede escapar, el peón protege a la dama } { [%csl Gg5,Re6,Rf7,Rg6][%cal Gf4g5,Rc4g8] } (4. Qh4+ { Alternativa, encerrarlo en la esquina } { [%csl Re6,Rf7,Rh6] } 4... Kg6 { [%csl Rg5,Rf6,Rf7] } 5. Qg5+ { [%csl Gg5][%cal Gf4g5,Gg6h7,Gg5h5] } 5... Kh7 6. Qh5# { [%csl Rg8,Rg6,Rh6][%cal Rc4g8,Rh5g6,Rh5h6] }) *
+
+
+[Event "Jaques - Murray Chandler: Falta Peón-F defensivo #4"]
+[Site "https://lichess.org/study/AlyeM1c7/kyaNosp0"]
+[Result "*"]
+[UTCDate "2020.12.28"]
+[UTCTime "23:02:15"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r2q3k/ppb3pp/2p1B3/2P1RQ2/8/6P1/PP1r3P/5RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ [%csl Gf7] }
+1. Qxh7+ { Sacrificamos a la dama para romper la columna H } { [%csl Rh7,Gh5][%cal Rh8h7,Ge5h5] } 1... Kxh7 2. Rh5+ Kg6 3. Bf7# { [%csl Gf7,Gh5,Rh6,Rf6,Rf5,Rg5,Rh7][%cal Gf1f7,Gf7h5] } *

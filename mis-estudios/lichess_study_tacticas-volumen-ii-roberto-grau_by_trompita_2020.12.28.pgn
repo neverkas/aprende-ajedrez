@@ -1,0 +1,135 @@
+[Event "Scheveningen"]
+[Site "Scheveningen NED"]
+[Date "1905.08.05"]
+[Round "8"]
+[White "Georg Schories"]
+[Black "Rudolf Spielmann"]
+[Result "0-1"]
+[UTCDate "2020.12.28"]
+[UTCTime "05:25:54"]
+[Variant "Standard"]
+[ECO "C82"]
+[Opening "Ruy Lopez: Open, Italian Variation"]
+[Annotator "https://lichess.org/@/trompita"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Bc5 10. a4 b4 11. Qe2 O-O 12. Bc2 f5 13. exf6 Qxf6 14. Bxe4 dxe4 15. Qxe4 Bb3 16. c4 Qd6 17. Nbd2 Rae8 18. Qb1 Nd4 19. Ne4 Nxf3+ 20. gxf3 Qg6+ 21. Kh1 Rxf3 22. Re1 Rxf2 23. Bg5 Qh5 24. Nf6+ gxf6 25. Rxe8+ Kf7 { 0-1 White resigns. } 0-1
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Sobrecarga #1"]
+[Site "https://lichess.org/study/GWwm0uWW/YFFLmIzm"]
+[Result "*"]
+[UTCDate "2021.01.02"]
+[UTCTime "03:17:27"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "2rq1rk1/3bbppp/p3pn2/1p1pN3/2nP1B2/P1NBP2Q/1P3PPP/2R2RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nxd5! { El caballo negro de f6 está Sobrecargado, no puede proteger el mate de h7 y el peón de d5 } { [%csl Gh7,Gd5,Gf6][%cal Gf6h7,Rh3h7,Gf6d5,Rh7g8] } 1... Nxd5?? { Las blancas hacen mate, el alfil protege a la dama en h7 } { [%csl Rh7][%cal Rh3h7,Rh7g8,Gd3h7] } (1... exd5 { [%csl Rd7,Rf8][%cal Re5d7,Rd7f8] } 2. Nxd7 Qxd7 3. Bxh7+ Kh8? (3... Nxh7! { Si las negras comen h7 con el caballo, pierden su dama pero evitan el mate } { [%csl Rd7][%cal Rh3d7] } 4. Qxd7) 4. Bf5+ { Las blancas hacen un "jaque al descubierto", las negras pierden su Dama } { [%csl Rh8,Rd7,Gf5][%cal Rh3h8,Rh3d7,Gh3f5] }) 2. Qxh7# { [%csl Gh7,Rg8][%cal Gd3h7,Rh7g8] } *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Sobrecarga #2"]
+[Site "https://lichess.org/study/GWwm0uWW/TADHa7ue"]
+[Result "*"]
+[UTCDate "2021.01.02"]
+[UTCTime "03:47:42"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "3r3k/4Qp1p/p3p3/1pR4P/3qb3/P5R1/1P3PP1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rd5 { [%csl Rd5][%cal Rd4d5,Re4d5,Rd8d5,Re6d5] } 1... Qxd5 (1... exd5) *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Capítulo 4"]
+[Site "https://lichess.org/study/GWwm0uWW/BTbF9wJR"]
+[Result "*"]
+[UTCDate "2021.01.02"]
+[UTCTime "04:21:18"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r6k/6pp/1qP1Q2N/3K4/r7/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Qg8+ Rxg8 2. Nf7# *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Capítulo 5"]
+[Site "https://lichess.org/study/GWwm0uWW/ESEJlHoG"]
+[Result "*"]
+[UTCDate "2021.01.02"]
+[UTCTime "04:28:28"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "rn2kb1r/p3qppp/1pp2n2/4p3/2B1P3/1QN5/PPP2PPP/R1B1K1NR b KQkq - 0 1"]
+[SetUp "1"]
+
+1... b5 2. Nxb5 cxb5 3. Bxb5+ { [%csl Re8][%cal Rb5e8] } *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Combinacion #1"]
+[Site "https://lichess.org/study/GWwm0uWW/LymcRGCA"]
+[Result "*"]
+[UTCDate "2021.01.02"]
+[UTCTime "04:37:13"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r5k1/2pq1n2/1pp2r1p/p1b1pPp1/P5N1/3P3Q/1PPB1PP1/R4RK1 b Qq - 0 1"]
+[SetUp "1"]
+
+1... Rxf5 { [%csl Gf6][%cal Gg4f6,Rf6g8,Rf6d7] } 2. Nf6+ { El caballo de las blancas hace un "Ataque Doble" } { [%csl Rg8,Rd7][%cal Rf6g8,Rf6d7,Gf5f6,Gh3d7] } 2... Rxf6 { La torre negra de f5 estaba "Clavada" por su dama negra, al moverse pierden su dama } { [%csl Rd7,Gf6][%cal Rh3d7] } (2... Kh8 3. Nxd7 { [%csl Rc5][%cal Rd7c5] }) 3. Qxd7 *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Ataque Doble #1"]
+[Site "https://lichess.org/study/GWwm0uWW/MU6vf6zQ"]
+[Result "*"]
+[UTCDate "2021.01.02"]
+[UTCTime "05:11:17"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "3r4/6nk/1pq4p/p3p3/6p1/P1P5/1P1B1PPQ/3R1RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qh4 { [%csl Rd8,Rg4][%cal Rh4d8,Rh4g4] } *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Ataque Doble #2"]
+[Site "https://lichess.org/study/GWwm0uWW/sZjUKMJk"]
+[Result "*"]
+[UTCDate "2021.01.02"]
+[UTCTime "05:14:17"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1bq1rk1/pp1nb1pp/2p1pn2/3p1pN1/2PP4/2N1P3/PP1BBPPP/R2Q1RK1 w Qq - 0 1"]
+[SetUp "1"]
+
+1. Nxe6! { [%csl Rf8,Rd8][%cal Re6f8,Re6d8] } *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Ataque Doble #3"]
+[Site "https://lichess.org/study/GWwm0uWW/QmaERTaz"]
+[Result "*"]
+[UTCDate "2021.01.02"]
+[UTCTime "05:28:06"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r6k/3q2np/1P1N4/2pN2b1/3pQ3/8/6PP/1R4K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nf6! { El caballo de las blancas tiene un "Ataque Doble" en d7, y amenaza mate si la dama ataca el peón negro de h7 } { [%csl Rh7,Rg8,Rd7,Ra8][%cal Rf6h7,Rf6g8,Re4h7,Rf6d7,Re4a8] } 1... Bxf6 { [%csl Ra8][%cal Re4a8] } 2. Qxa8+ { Si las negras evitan el mate comiendo el caballo de f6, pierden la torre en a8 } 2... Ne8 3. Qxe8+ Qxe8 4. Nxe8 { Las blancas ganan mejor material } *

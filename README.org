@@ -1,0 +1,37 @@
+* Herramientas
+** Gestores de Partidas 
+*** Arena (GUI)
+*** SCID (GUI)
+** Módulos de Análisis de Ajedrez (Engines/Módulos)
+   Se los conoce como *Chess Engines* ó *Módulos de Análisis*, los cuales se pueden cargar a un gestor de partidas 
+   que tenga una interfaz gráfica (GUI) como scid ó Arena
+*** Stockfish
+    - Es un motor de análisis de código abierto
+*** Komodo
+** Instalación
+   #+name: instalacion-paquetes-en-manjaro
+   #+BEGIN_SRC bash
+     # Instalamos el paquete tk
+     sudo pacman -S tk
+
+     # suponiendo que tenemos la siguiente ruta creada
+     cd ~/Documentos/git/aprende-ajedrez/utilidades
+
+     # clonamos los repositorios
+     git clone https://aur.archlinux.org/scid.git
+     git clone https://aur.archlinux.org/stockfish.git
+
+     # instalamos los paquetes
+     cd scid && makepkg -si
+     cd ..
+     cd stockfish && makepkg -si
+   #+END_SRC
+
+** Bases de Datos
+   1. [[https://www.pgnmentor.com/files.html][PGNMentor]]
+   2. [[https://theweekinchess.com/a-year-of-pgn-game-files][TheWeekInChess]]
+* Referencias
+  1. [[http://scid.sourceforge.net/][Scid - Sitio Oficial]]
+  2. [[https://stockfishchess.org/][Stockfish - Sitio Oficial]]
+  3. [[https://thezugzwangblog.com/stockfish/][Stockfish configuración - TheZugzWangBlog.com]]
+  4. [[http://recursostic.educacion.es/observatorio/web/fr/software/software-general/770-ajedrez-en-linux][Ajedrez en Linux - Observatorio Tecnológico]]

@@ -1,0 +1,28 @@
+[Event "Tácticas - Jordi de la Riva: Clavada 1.01B"]
+[Site "https://lichess.org/study/4qrOyEAi/xiCuZnaK"]
+[Result "*"]
+[UTCDate "2021.01.02"]
+[UTCTime "01:16:04"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b1R3/p1kq2b1/8/2BQ2pn/1P3p2/P7/2P3P1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Re7 { [%csl Re7][%cal Rd7e7] } *
+
+
+[Event "Tácticas - Jordi de la Riva: Clavadas 1.02B"]
+[Site "https://lichess.org/study/4qrOyEAi/zDzzPygI"]
+[Result "*"]
+[UTCDate "2021.01.02"]
+[UTCTime "01:34:50"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "3k3r/p2q1ppp/8/3pP1P1/2p1n3/8/PP2Q2P/2KR3R w - - 0 1"]
+[SetUp "1"]
+
+1. Rxd5 Qxd5 2. Rd1 { [%csl Rd8,Rd5][%cal Rd1d8] } 2... Qxd1+ 3. Qxd1+ *

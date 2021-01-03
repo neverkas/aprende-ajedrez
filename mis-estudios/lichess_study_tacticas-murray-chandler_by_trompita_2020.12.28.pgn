@@ -1,0 +1,514 @@
+[Event "Tácticas - Murray Chandler: Intro - Combinacion #1"]
+[Site "https://lichess.org/study/uZXUZbfX/Z5EZN9gl"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "01:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1bqr1k1/1p1nb1pp/p1p5/3p1p2/3PnB2/2NBPN2/PPQ2PPP/2R2RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ [%csl Rd5][%cal Rc3d5,Gc6d5] }
+1. Nxd5 { Sacrificamos al caballo para abrir la columna C, y comer la dama negra, con el alfil y la dama } { [%csl Gd5][%cal Rc2c7,Rf4c7,Gc6d5] } 1... cxd5 { [%csl Rc7][%cal Gf4c7,Rc2c7,Gd8c7] } 2. Bc7 Qxc7 3. Qxc7 *
+
+
+[Event "Tácticas - Murray Chandler: Intro #2"]
+[Site "https://lichess.org/study/uZXUZbfX/AkvQZSpw"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "01:59:28"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r4rk1/p1pqbppp/2pp4/4p2b/4P3/2PP1N1P/PP3PP1/R1BQ1RK1 w Qq - 0 1"]
+[SetUp "1"]
+
+{ [%csl Re5,Gd1,Rd7,Rf8][%cal Rf3e5,Gh5d1,Re5d7,Rd7f8,Gf1d1] }
+1. Nxe5 dxe5 2. Qxh5 Qxd3 3. Qxe5 Bd6 4. Qd4 Qb5 *
+
+
+[Event "Tácticas - Murray Chandler: Into #3"]
+[Site "https://lichess.org/study/uZXUZbfX/MD1S30Ka"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "02:15:50"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r4rk1/p1pqbppp/2pp4/4p2b/4P3/2PP1N1P/PP3PP1/R1BQ1RK1 w Qq - 0 1"]
+[SetUp "1"]
+
+1. Nxe5 dxe5 (1... Qxh3 2. gxh3 Bxd1 3. Nxc6) 2. Qxh5 Qxd3 3. Qxe5 Bd6 4. Qd4 Qb5 (4... Bh2+ { Las negras sacrifican un alfil para comer una torre } 5. Kxh2 Qxf1 6. Bh6 { Si las blancas atacan g7 harían mate (ataque al descubierto) } { [%csl Rg7,Rg8,Rh8][%cal Rd4g7,Gh6g7] } 6... gxh6 7. Rxf1) *
+
+
+[Event "Tácticas - Murray Chandler: Ataques dobles #1"]
+[Site "https://lichess.org/study/uZXUZbfX/TCxJjgb7"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "03:02:17"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "2kr3r/pp1n1pp1/1qpb2p1/4p3/3PB3/5Q2/PPPB1PPP/1K1R3R b - - 0 1"]
+[SetUp "1"]
+
+{ [%csl Gf7,Re4][%cal Gf7f5,Rf5e4] }
+1... f5 { Alejamos al alfil blanco } 2. Bd3 { [%csl Rf3,Rd3,Ge4][%cal Ge5e4] } 2... e4 { El peón negro amenaza con ataque doble } { [%csl Rf3,Rd3][%cal Re4f3,Re4d3,Gf5e4] } *
+
+
+[Event "Tácticas - Murray Chandler: Ataques dobles #2"]
+[Site "https://lichess.org/study/uZXUZbfX/3fr6t5l7"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "03:08:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1bqkb1r/2p2ppp/p1np1n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQ1RK1 b Qkq - 0 1"]
+[SetUp "1"]
+
+{ [%csl Re4,Rc6,Ra8][%cal Rf6e4,Gb3d5,Gd5a8,Rd5e4] }
+1... Nxe4? { Si las negras comen con el caballo e4, el alfil blanco hará ataque doble en d5 } 2. Bd5! { [%csl Rc6,Ra8,Re4] } *
+
+
+[Event "Tácticas - Murray Chandler: Ataques dobles #3"]
+[Site "https://lichess.org/study/uZXUZbfX/TA5WGffh"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "03:18:58"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "2b5/1pp1kppp/7r/p3p3/2P5/1P2PBP1/P4P1P/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ [%csl Re5,Ra5][%cal Gd1d5] }
+ *
+
+
+[Event "Tácticas - Murray Chandler: Ataques dobles #4"]
+[Site "https://lichess.org/study/uZXUZbfX/juFHF6oM"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "03:30:01"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "1r1q1rk1/p2nppbp/b1np2p1/2p5/4PPP1/2PP3P/P2NQ1B1/RNB1R1K1 b Q - 0 1"]
+[SetUp "1"]
+
+{ [%csl Gd4][%cal Gc6d4] }
+1... Nd4 { Las negras sacrifican caballo, pero su alfil hará ataque doble en a1 y g1 } { [%csl Rd4,Re2][%cal Rc3d4,Gg7d4] } (1... Nb4 { No es un ataque doble, pero se me ocurrió } { [%csl Rb4,Ga1][%cal Rc3b4,Gg7a1] } 2. cxb4 Bxa1) 2. cxd4 Bxd4+ { [%csl Ra1,Rg1][%cal Rd4g1,Rd4a1] } *
+
+
+[Event "Tácticas - Murray Chandler: Ataques dobles de Caballo #1"]
+[Site "https://lichess.org/study/uZXUZbfX/Rg5dBkvB"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "03:48:17"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r3k2r/pp2n1b1/3pb2p/4ppp1/1q1nP3/2NPBPP1/2PQ1NBP/RR4K1 b Qkq - 0 1"]
+[SetUp "1"]
+
+1... Qxc3 { Las negras sacrifican su dama para que su caballo haga ataque doble en e2 contra la dama y el rey } { [%csl Ge2,Rc3][%cal Gd4e2,Rd2c3] } 2. Qxc3 { [%csl Ge2][%cal Gd4e2] } 2... Ne2+ { [%csl Rc3,Rg1][%cal Ge2g1,Re2c3] } *
+
+
+[Event "Tácticas - Murray Chandler: Ataques dobles de Caballo #2"]
+[Site "https://lichess.org/study/uZXUZbfX/T79B7yzU"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "04:32:55"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "8/p5kp/1p3p2/4np2/3r4/6P1/P1R2PBP/6K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Rd1+ { Las negras amenazan jaque para desviar al alfil, hacer otro jaque y luego un doble ataque del caballo } { [%csl Gf1,Gf3][%cal Gg2f1,Ge5f3] } 2. Bf1 { [%csl Gf3,Rg1,Ge1][%cal Ge5f3,Gf3e1] } 2... Nf3+ 3. Kg2 (3. Kh1 Rxf1+ 4. Kg2 Ne1+ { Alternativa de ataque doble de las negras con el caballo, aunque perdemos la torre } { [%csl Rc2][%cal Re1c2] } 5. Kxf1 Nxc2) 3... Ne1+ { [%csl Gg2,Rc2][%cal Re1c2] } *
+
+
+[Event "Tácticas - Murray Chandler: Ataques dobles de Caballo #3"]
+[Site "https://lichess.org/study/uZXUZbfX/9HSOZHoB"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "04:51:55"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "3rr1k1/p1p2pp1/1p1q3p/8/2nP1QR1/2P3N1/P4PPP/5RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxg7+ { Las blancas sacrifican su torre en f7, para que su caballo haga ataque doble contra la dama y rey } { [%csl Gf5][%cal Gg3f5] } 1... Kxg7 2. Nf5+ { [%csl Rd6,Rg7][%cal Rf5g7,Rf5d6] } 2... Kh8 3. Nxd6 *
+
+
+[Event "Tácticas - Murray Chandler: Ataques dobles de Caballo #4"]
+[Site "https://lichess.org/study/uZXUZbfX/zsqkgEAU"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "05:05:44"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "8/8/2p2kp1/2N4p/1P1qbP1P/3p2P1/3Q3K/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Qc3 { Las blancas sacrifican a la dama, pero el caballo come el alfil en e4, y un ataque doble contra la dama y el rey } { [%csl Rc3,Re4][%cal Gd4c3,Gc5e4] } (1. Qxd3 { No es alternativa, porque las blancas pierden más } { [%csl Rd3][%cal Rd4d3] } 1... Qxd3 { [%csl Re4,Rd3][%cal Rc5d3,Rc5e4] } 2. Nxd3 Bxd3) 1... Qxc3 { [%csl Re4][%cal Gc5e4] } 2. Nxe4+ { [%csl Rc3,Rf6][%cal Re4f6,Re4c3] } *
+
+
+[Event "Tácticas - Murray Chandler: Ataques dobles de Dama #1"]
+[Site "https://lichess.org/study/uZXUZbfX/cPv8myTJ"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "18:10:23"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "rnbqk2r/pp1pbppp/4pn2/6B1/2PN4/4P3/PP3PPP/RN1QKB1R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... Qa5+ { [%csl Rg5,Re1][%cal Ra5g5,Ra5e1] } *
+
+
+[Event "Tácticas - Murray Chandler: Ataques dobles de Dama #2"]
+[Site "https://lichess.org/study/uZXUZbfX/falBLNXz"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "18:15:42"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b2rk1/pppp2pp/2n2q2/1Bb1p3/4P3/2N2N2/PPP2PPP/R2QK2R w KQq - 0 1"]
+[SetUp "1"]
+
+1. Qd5+ { [%csl Rc5,Rf6,Rg8][%cal Rd5f6,Rd5c5] } *
+
+
+[Event "Tácticas - Murray Chandler: Ataques dobles de Dama #3"]
+[Site "https://lichess.org/study/uZXUZbfX/koiVzfLb"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "18:27:13"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r5k1/p1q3bp/3pprp1/2p5/5P2/2N5/PPP3PP/R2QR1K1 w Qq - 0 1"]
+[SetUp "1"]
+
+1. Nd5 { Las blancas sacrifican su caballo amenazando la dama y torre de las negras, para un ataque doble con su dama en a8 y g8 } { [%csl Rc7,Gd5,Rf6][%cal Ge6d5] } 1... exd5 2. Qxd5+ { [%csl Rg8,Ra8][%cal Rd5g8,Rd5a8] } *
+
+
+[Event "Tácticas - Murray Chandler: Ataques dobles de Dama #4"]
+[Site "https://lichess.org/study/uZXUZbfX/TgDtF2gQ"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "19:18:42"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "5rk1/pp1R1pp1/7p/4r3/6P1/P3PQ2/1P2KPq1/2R5 b - - 0 1"]
+[SetUp "1"]
+
+1... Rxe3+! { Las negras sacrifican su torre, y luego su dama tiene un ataque doble contra d7 y e2 } { [%csl Re3,Gg4][%cal Rf3e3,Gg2g4] } 2. Qxe3 (2. Kxe3?? { Si las blancas comieran con el rey, habría jaque mate } { [%csl Ge8,Gf4,Gg5][%cal Gf8e8,Ge3f4,Gg7g5] } 2... Re8+ 3. Kf4 g5+ 4. Kf5 Qxf3# { [%csl Re5,Rg6,Re4,Rf4,Gg5,Re6][%cal Gh6g5] }) 2... Qxg4+ { [%csl Re2,Rd7][%cal Rg4d7,Rg4e2] } *
+
+
+[Event "Tácticas - Murray Chandler: Clavada #1"]
+[Site "https://lichess.org/study/uZXUZbfX/RstOelOE"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "22:08:08"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r3k2r/pp2qppp/2p3b1/8/1Q1P1BP1/P4PN1/1PP4P/2KR4 w kq - 0 1"]
+[SetUp "1"]
+
+1. Re1 { La dama negra está clavada, no se puede escapar } { [%csl Re7] } *
+
+
+[Event "Tácticas - Murray Chandler: Clavada #2"]
+[Site "https://lichess.org/study/uZXUZbfX/LWXRZe9z"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "22:15:17"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1bqkb1r/pp1npppp/2p2n2/8/3PN3/8/PPP1QPPP/R1B1KBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nd6# { Las negras no pueden mover su peón de e7, porque está clavado (por la dama de las blancas) } { [%csl Re8,Ge7][%cal Ge2e6] } *
+
+
+[Event "Tácticas - Murray Chandler: Clavada #3"]
+[Site "https://lichess.org/study/uZXUZbfX/Eef0LCre"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "22:23:37"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "rnb1k2r/pp2qppp/2p5/3p4/3Pn3/2N1P3/PPQ2PPP/R3KBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nxd5 { Las blancas tratan de clavar a la dama con su caballo } { [%csl Re7,Gd5][%cal Rd5e7,Gc6d5] } 1... cxd5? { Las negras al sacar la clavada, se arriesgan al jaque } 2. Qxc8+ *
+
+
+[Event "Tácticas - Murray Chandler: Clavada #4"]
+[Site "https://lichess.org/study/uZXUZbfX/dIJt2Icw"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "22:53:56"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b2k1r/ppq2pbp/4p1p1/1B1n4/8/P4N2/1P3PPP/R1BQR1K1 w Qkq - 0 1"]
+[SetUp "1"]
+
+1. Ne5 { Alternativa, pero no es jaque mate... :( } { [%csl Rg7][%cal Gg7e5] } (1. Qxd5 { Las blancas sacrifican su dama, a cambio de un jaque mate } { [%csl Ge6,Rd5,Ge8,Rf8][%cal Re6d5,Ge1e8,Re8f8] } 1... exd5?? { El peón de las negras de e6 está clavado, si come la dama blanca en d5, sufren jaque mate } { [%cal Ge1e8,Gb5e8] } 2. Re8# { [%csl Ge8,Rf8][%cal Gb5e8,Re8f8] }) 1... Bxe5 2. Bh6+ { [%csl Rf8,Re8,Rg7] } *
+
+
+[Event "Tácticas - Murray Chandler: Clavada #5"]
+[Site "https://lichess.org/study/uZXUZbfX/1l8GIOgK"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "23:05:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "4r1k1/1p1r1ppp/p3q3/4bR2/2PpP1Q1/3B4/PP4PP/5RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxe5 { Las negras tienen la dama clavada, si come g4 ó e5, saldrán perdiendo } { [%csl Re6,Gd7,Re8,Rg8][%cal Gg4d7,Re5e8,Re8g8] } (1. Qxg7+ { [%csl Rg7][%cal Gg8g7] } 1... Kxg7 { [%csl Rg7][%cal Gf5g5,Rg5g7] } 2. Rg5+) 1... Qxe5? { [%csl Rd7,Re8][%cal Rg4d7,Rd7e8] } (1... Qxg4?? { Esto es peor para las negras, porque hay jaque mate } { [%csl Re8,Rg8][%cal Ge5e8,Re8g8] } 2. Rxe8#) 2. Qxd7 { Las blancas ganan dos piezas (torre y alfil) por una torre } *
+
+
+[Event "Tácticas - Murray Chandler: Clavada #6"]
+[Site "https://lichess.org/study/uZXUZbfX/xA18tBRu"]
+[Result "*"]
+[UTCDate "2020.12.29"]
+[UTCTime "23:23:08"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1r5/5p1k/1bqp2pp/pR2p3/2P1P2P/1PR2NP1/2Q2P2/6K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Bd4 { Las negras sacrifican su alfil para comer la torre en b5 } { [%csl Gd4,Rb5,Rc3][%cal Rf3d4,Gc6b5,Rd4c3,Ge5d4] } (1... Bxf2+?! { Evaluar alternativa (?) } 2. Qxf2 Qxb5) 2. Nxd4 (2. Qd3 Qxb5) 2... exd4 { [%csl Rc3,Rb5][%cal Rd4c3,Rc6b5] } 3. Qd3 Qxb5 *
+
+
+[Event "Tácticas - Murray Chandler: Clavada en Diagonal #1"]
+[Site "https://lichess.org/study/uZXUZbfX/0o8KOmFc"]
+[Result "*"]
+[UTCDate "2020.12.30"]
+[UTCTime "00:11:56"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "6k1/ppb2pp1/2pq4/7p/3QP3/1PB2PP1/P6P/6K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Bb6 { La dama de las blancas está clavada por su rey, no puede escapar, se ve obligado a comer al alfil negro en b6 } { [%csl Rd4,Rg1][%cal Gb6g1,Gd6d1,Rd1g1] } 2. Qxb6?! { [%csl Gd1,Rg1][%cal Gd6d1,Rd1g1] } 2... Qd1+ { [%csl Rg1][%cal Gd1g1] } *
+
+
+[Event "Tácticas - Murray Chandler: Clavada en Diagonal #2"]
+[Site "https://lichess.org/study/uZXUZbfX/iEQYbo3o"]
+[Result "*"]
+[UTCDate "2020.12.30"]
+[UTCTime "00:23:35"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "1rq3k1/4p3/p2pr1pp/2p5/1pP1B3/1Pb1R1PP/P4P2/2QR2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bd5!! { La torre negra de e6 está clavada, no se puede mover porque compromete a su rey } { [%csl Ge3,Rg8][%cal Ge6e3,Rd5g8] } *
+
+
+[Event "Tácticas - Murray Chandler: Clavada en Diagonal #3"]
+[Site "https://lichess.org/study/uZXUZbfX/TrtxqlCL"]
+[Result "*"]
+[UTCDate "2020.12.30"]
+[UTCTime "00:36:12"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r2qr1k1/pbpn1pbp/1p1p2p1/8/1PPNP3/3Q4/PB1N1PPP/R3R1K1 b Qq - 0 1"]
+[SetUp "1"]
+
+1... c5 { [%csl Rb4,Rd4,Gc5][%cal Rc5b4,Rc5d4,Gd6c5,Gb6c5,Gd7c5] } 2. bxc5 { [%csl Gd4,Rb2][%cal Rg7b2] } 2... dxc5 { Si las blancas mueven su caballo de d4, pierden su alfil en b2. } { [%csl Gb3,Rc6,Rd4][%cal Rg7b2] } 3. N4b3? { [%csl Rb2][%cal Rg7b2] } (3. Nc6?! { No es favorable para las negras (?) } { [%csl Rd8] } 3... Bxc6 4. Bxg7) 3... Bxb2 *
+
+
+[Event "Tácticas - Murray Chandler: Clavada en Diagonal #4"]
+[Site "https://lichess.org/study/uZXUZbfX/2EpghSs2"]
+[Result "*"]
+[UTCDate "2020.12.30"]
+[UTCTime "03:01:40"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "2b3k1/5pp1/7p/8/4BP2/1Pp3P1/4P1KP/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Bb7!! { El alfil de las blancas está clavado, no puede atacar al peón en c3 porque no puede abandonar al rey blanco } { [%csl Gc3,Gc1,Rg2,Ge4,Gb7][%cal Gc3c1,Rb7g2] } 2. Bxb7 { [%csl Gc3][%cal Gc3c1] } 2... c2 { El peón de las negras le da tiempo para coronar } { [%csl Gc1][%cal Gc2c1] } *
+
+
+[Event "Tácticas - Murray Chandler: Clavada en Diagonal #5"]
+[Site "https://lichess.org/study/uZXUZbfX/VfKETfDj"]
+[Result "*"]
+[UTCDate "2020.12.30"]
+[UTCTime "03:23:51"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "1r3r1k/p1p3pp/2Qp4/4pP2/1P2P3/2PP1q2/P6P/4RBK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Rxf5 { La dama blanca está clavada, si las blancas no comen la torre habrá jaque mate con torre g5 ó dama f2 } { [%csl Rf5,Rc6][%cal Ge4f5,Rf3c6] } 2. exf5 { [%csl Rc6][%cal Gf3c6] } 2... Qxc6 *
+
+
+[Event "Tácticas - Murray Chandler: Enfilada/Pincho #1 (Blancas)"]
+[Site "https://lichess.org/study/uZXUZbfX/wOE5Qk3L"]
+[Result "*"]
+[UTCDate "2020.12.31"]
+[UTCTime "04:05:55"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r4rk1/ppp2ppp/4p3/1bq1P3/4p3/P1B1P2P/1PP2PP1/R2QR1K1 w Qq - 0 1"]
+[SetUp "1"]
+
+1. Bb4! { Las blancas hacen una enfilada sobre la dama y torre de las negras con su alfil } { [%csl Rc5,Rf8][%cal Rb4c5,Rb4f8] } 1... Qxe5 { Las negras pueden salvar su dama, pero su torre no se salvará } { [%csl Rf8][%cal Rb4f8] } (1... Qxb4? 2. axb4) 2. Bxf8 *
+
+
+[Event "Tácticas - Murray Chandler: Enfilada/Pincho #2 (Negras)"]
+[Site "https://lichess.org/study/uZXUZbfX/ab8agEkl"]
+[Result "*"]
+[UTCDate "2020.12.31"]
+[UTCTime "04:36:40"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1bqk2r/pp1pppbp/5np1/8/3Q4/1P4P1/P1P1PPBP/RNB2RK1 b Qkq - 0 1"]
+[SetUp "1"]
+
+1... Nh5! { Las negras hacen una enfilada sobre la dama y torre en la gran diagonal con su alfil en g7 (y su caballo de h5 lo protege). Si la dama blanca debe moverse, pero su torre de a1 caerá. } { [%csl Gg7,Rd4,Ra1][%cal Gh5g7,Rg7d4,Rd4a1,Gd4c5,Gd4e3,Gd4f4,Gd4b4,Gd4d2,Gd4d6] } *
+
+
+[Event "Tácticas - Murray Chandler: Enfilada/Pincho #3 (Negras)"]
+[Site "https://lichess.org/study/uZXUZbfX/V13hfx9g"]
+[Result "*"]
+[UTCDate "2020.12.31"]
+[UTCTime "04:47:23"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "2rq1rk1/4bppp/p3bn2/1pnpB3/8/2NBPN1P/PP3PP1/2RQ1RK1 b - - 0 1"]
+[SetUp "1"]
+
+1... d4! { Las negras sacrifican a su peón para hacer una enfilada sobre la dama y torre de las blancas. } { [%csl Gc4,Rd4][%cal Ge6c4,Re5d4] } 2. Bxd4 (2. exd4 Nxd3 3. Qxd3 Bc4 { [%csl Rf1,Rd3][%cal Rc4f1] }) 2... Nxd3 { El caballo de las negras además de comer una pieza, obliga a la dama blanca a que lo ataque o pierde su torre } { [%csl Rd3,Rc1][%cal Rd1d3] } 3. Qxd3 { [%csl Gc4][%cal Ge6c4] } 3... Bc4 { [%csl Rd3,Rf1,Gc4][%cal Rc4f1,Gb5c4] } 4. Qb1 { La dama blanca se ve obligada a huir y perder su torre en f1 } 4... Bxf1 *
+
+
+[Event "Tácticas - Murray Chandler: Enfilada/Pincho #4 (Blancas)"]
+[Site "https://lichess.org/study/uZXUZbfX/hLg2V1km"]
+[Result "*"]
+[UTCDate "2020.12.31"]
+[UTCTime "05:04:03"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "2R5/5pkp/6p1/3P4/1Q6/5rPK/8/q7 w - - 0 1"]
+[SetUp "1"]
+
+1. Qf8+ { [%csl Gf8,Rg7][%cal Gc8f8,Rf8g7] } (1. Qc3+? { NO es una buena alternativa, perdemos la dama. } { [%csl Rf3,Ra1,Rg7,Gc3][%cal Rc3f3,Rc3a1,Rc3g7,Gc8c3] }) 1... Kf6 { [%csl Gh8,Ga1,Gf6][%cal Gf8h8,Gh8a1] } 2. Qh8+ { La dama blanca hace una enfilada contra el rey negro y su dama } { [%csl Gh8,Gf6,Ga1][%cal Rh8f6,Rh8a1,Gc8h8] } 2... Kg5 { El rey negro se ve obligado a moverse, y perder a la dama } { [%csl Ra1][%cal Rh8a1] } 3. Qxa1 *
+
+
+[Event "Tácticas - Murray Chandler: Enfilada/Pincho #5 (Blancas)"]
+[Site "https://lichess.org/study/uZXUZbfX/1Ok7oNx7"]
+[Result "*"]
+[UTCDate "2020.12.31"]
+[UTCTime "06:10:50"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "4k2r/1prn1pp1/p3pn1p/1pPp4/1P1P2P1/1NN1P2P/1P3P2/R3K2R w KQk - 0 1"]
+[SetUp "1"]
+
+1. Nxb5! { Las blancas sacrifican su caballo en b5, amenazan a la torre negra en c7 } { [%csl Rc7,Gd6,Re8,Rb5][%cal Rb5c7,Gb5d6,Rd6e8,Ra6b5] } 1... axb5 { El peón negro de a6 se ve obligado a comer el caballo en b5 } { [%csl Re8,Rh8,Rc8,Ge7][%cal Ga1a8,Ra8e8,Re8h8,Gc7c8,Ge8e7] } 2. Ra8+ { La torre blanca hace una enfilada sobre el rey negro y la torre. Las negras pierden la torre de h8 } { [%csl Rh8,Re8][%cal Ra8h8] } 2... Ke7 3. Rxh8 *
+
+
+[Event "Tácticas - Murray Chandler: Sacrificio de Atracción #1 (Negras)"]
+[Site "https://lichess.org/study/uZXUZbfX/lp16BBRL"]
+[Result "*"]
+[UTCDate "2020.12.31"]
+[UTCTime "20:53:22"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "6k1/1pp2p2/5p1p/p2P4/2P5/1P4Pn/P2r3P/4Q2K b - - 0 1"]
+[SetUp "1"]
+
+1... Rd1! { Las negras sacrifican su torre en d1, y preparan un doble ataque } { [%csl Rd1,Gf2][%cal Re1d1,Gh3f2] } 2. Qxd1 { La dama blanca está clavada por su rey, no puede huir, está obligada a comer la torre en d1 } { [%csl Gf2][%cal Gh3f2,Rf2d1,Rf2h1] } 2... Nf2+ { [%csl Rd1,Rh1][%cal Rf2d1,Rf2h1] } *
+
+
+[Event "Tácticas - Murray Chandler: Sacrificio de Atracción #2 (Negras)"]
+[Site "https://lichess.org/study/uZXUZbfX/EbMsrkx3"]
+[Result "*"]
+[UTCDate "2020.12.31"]
+[UTCTime "21:09:33"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "2r1rbk1/1p1n1ppp/p2ppn2/7q/2PNPP2/1PN1Q3/PB4PP/3R1R1K b - - 0 1"]
+[SetUp "1"]
+
+1... Qxh2+! { Las negras sacrifican a su dama, por un doble ataque hacia la dama y las torres } { [%csl Rh2,Gg4,Re3][%cal Rh1h2,Gf6g4,Rg4e3,Gg4h2] } 2. Kxh2 Ng4+ { [%csl Rh2,Re3][%cal Rg4h2,Rg4e3] } 3. Kh1 Nxe3 { Las negras ganan un peón, y una torre } { [%csl Rd1,Rf1][%cal Re3f1,Re3d1] } *
+
+
+[Event "Tácticas - Murray Chandler: Sacrificio de Atracción #3 (Negras)"]
+[Site "https://lichess.org/study/uZXUZbfX/rQE1mduQ"]
+[Result "*"]
+[UTCDate "2020.12.31"]
+[UTCTime "21:36:28"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "6k1/3q1pp1/p6p/2R5/3rb3/6BP/PP2QPP1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+ *
