@@ -4,15 +4,35 @@
 ** Gestores de Partidas 
 *** Arena (GUI)
 *** SCID (GUI)
+**** Conceptos
+     - Scid significa Shane's Chess Information Database, haciendo referencia a su creador.
+     - Es un software de código abierto, útil para jugar ajedrez
+     - Funciona como administrador de base de datos ó mejor dicho gestor de partidas porque realiza seguimiento de jugadores, analiza partidas jugadas, el de tipo de juego y tiempos de cada usuario.
+     - Permite configurar el juego según cada usuario (determinar tiempos, y nivel de dificultad)
 **** Referencias
-     - [[https://sourceforge.net/p/scid/wiki/StartHere/][Documentación Oficial]]
+     1. [[https://sourceforge.net/p/scid/wiki/StartHere/][Documentación Oficial]]
+     2. [[https://www.gnu.org/philosophy/free-software-for-freedom.es.html][Por que Software Libre es mejor que Código Abierto - gnu.org]]
 ** Módulos de Análisis de Ajedrez (Engines/Módulos)
-   Se los conoce como *Chess Engines* ó *Módulos de Análisis*, los cuales se pueden cargar a un gestor de partidas 
-   que tenga una interfaz gráfica (GUI) como scid ó Arena
+   - Conocidos como *Chess Engines* ó *Módulos de Análisis*
+   - Se pueden cargar en un *gestor de partidas* que disponga interfaz gráfica (GUI) como lo es el Scid ó Arena
+   
+     ![bitboard](images/bitboard.png)
 *** Stockfish
     - Es un motor de análisis de código abierto
+*** Stockfish (NNUE)
+**** Conceptos
+    - Versión mejorada del Stockfish clásico
+    - Su sigla *NNUE* significa *Funciones de Evaluación basadas en Redes Neuronales de forma eficiente*
+    - Reemplaza la función de evaluación con una red neuronal
+**** Referencias
+     1. [[https://thezugzwangblog.com/stockfish-nnue/][Stockfish NNUE, que es? - thezugzwangblog.com]]
 *** Komodo
+*** Referencias
+    1. [[https://chess24.com/es/informate/noticias/como-piensan-y-operan-los-modulos-de-analisis][Como piensan y operan los módulos de análisis - chess24.com]]
 ** Instalación
+   Agrego este apartado en caso del que sólo quiera agregar la configuración a su repositorio personal,
+   suponiendo que se utiliza la distribución Manjaro de GNU/Linux
+   
    #+name: instalacion-paquetes-en-manjaro
    #+BEGIN_SRC bash
      # Instalamos el paquete git y tk
@@ -39,8 +59,14 @@
    #+END_SRC
 
 ** Bases de Datos
-   1. [[https://www.pgnmentor.com/files.html][PGNMentor]]
-   2. [[https://theweekinchess.com/a-year-of-pgn-game-files][TheWeekInChess]]
+*** Conceptos
+    - Son una colección de partidas de ajedrez gratuita, periódicamente se agrega nuevas partidas
+    - El formato por excelencia es PGN, como también CBV y CBH (por Chessbase), y si4 (por Scid)
+
+*** Referencias
+    1. [[https://www.pgnmentor.com/files.html][PGNMentor]]
+    2. [[https://theweekinchess.com/a-year-of-pgn-game-files][TheWeekInChess]]
+    3. [[https://www.thezugzwangmembers.com/bases-datos-ajedrez/][Qué son las bases de datos de ajedrez - thezugzwangmembers.com]]
 * Referencias
   1. [[http://scid.sourceforge.net/][Scid - Sitio Oficial]]
   2. [[https://stockfishchess.org/][Stockfish - Sitio Oficial]]
