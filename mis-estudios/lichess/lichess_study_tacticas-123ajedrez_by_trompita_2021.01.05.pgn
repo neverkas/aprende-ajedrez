@@ -1,0 +1,433 @@
+[Event "Tácticas - 123ajedrez: Ataque Doble #1 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/6PTmAuY4"]
+[Result "*"]
+[UTCDate "2021.01.06"]
+[UTCTime "12:40:11"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b1k2r/2p2ppp/p1nb4/1p2p3/3Pn3/1BP2N2/PP3PPP/RNB1K2R w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Bd5 { [%csl Re4,Rc6][%cal Rd5c6,Rd5e4] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque Doble #2 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/xnYCuWj1"]
+[Result "*"]
+[UTCDate "2021.01.06"]
+[UTCTime "12:44:19"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b1r3/pp4pk/1qn1pb2/2pp4/3P4/2P5/PPN2PPP/R1BQR1K1 w Q - 0 1"]
+[SetUp "1"]
+
+1. Qh5+ { [%csl Rh7,Re8][%cal Rh5e8,Rh5h7] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque Doble #3 (Negras)"]
+[Site "https://lichess.org/study/H9xIhQOZ/ivE9L0pr"]
+[Result "*"]
+[UTCDate "2021.01.06"]
+[UTCTime "12:48:12"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "8/6pk/4pp1p/1R2n3/p3P3/P1P1q1PB/2P4P/1K1R4 b - - 0 1"]
+[SetUp "1"]
+
+1... Qe2 { [%csl Rd1,Rb5][%cal Re2d1,Re2b5] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque Doble #4 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/4Y4Ptafo"]
+[Result "*"]
+[UTCDate "2021.01.06"]
+[UTCTime "12:54:32"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r3k2r/ppp3pp/2n1pq2/2b5/3pP3/8/PPP2PPP/RNBQ1RK1 w Qkq - 0 1"]
+[SetUp "1"]
+
+1. Qh5+ { [%csl Rc5,Re8][%cal Rh5c5,Rh5e8] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque Doble #5 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/dJBxOABh"]
+[Result "*"]
+[UTCDate "2021.01.06"]
+[UTCTime "12:57:45"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1bq1rk1/p1p2ppp/1p2pb2/8/3P4/3B1N2/PPP1QPPP/R3K2R w KQq - 0 1"]
+[SetUp "1"]
+
+1. Qe4 { [%csl Rh7,Ra8][%cal Rh7g8,Re4h7,Re4a8] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque Doble #6 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/Qa0dZSO5"]
+[Result "*"]
+[UTCDate "2021.01.06"]
+[UTCTime "13:02:19"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1bqk2r/pppp1ppp/8/3Ppn2/1b6/4P1P1/PP1P1PBP/R1BQK1NR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Qg4 { [%csl Rf5,Rb4][%cal Rg4b4,Rg4f5] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque Doble #7 (Negras)"]
+[Site "https://lichess.org/study/H9xIhQOZ/QVfTuNUB"]
+[Result "*"]
+[UTCDate "2021.01.06"]
+[UTCTime "13:07:28"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1bqkb1r/pp1p1ppp/2p2nn1/8/B1N1P3/3P4/PPP2PPP/RNBQK2R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... b5 { [%csl Rc4,Ra4][%cal Rb5a4,Rb5c4] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque Doble #8 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/u3vI8v3j"]
+[Result "*"]
+[UTCDate "2021.01.06"]
+[UTCTime "13:17:33"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "3R4/pp3pkp/2p1rpq1/5b2/8/2Q3N1/PPP3PP/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qc5! { Las blancas amenazan con mate, si mueven dama a f8, y ataque doble sobre el alfil con dama y caballo } { [%csl Gf8,Rg7,Rf5][%cal Gc5f8,Rf8g7,Rc5f5,Rg3f5,Rd8f8] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque Doble #9 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/1gecvrSt"]
+[Result "*"]
+[UTCDate "2021.01.06"]
+[UTCTime "13:30:45"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "Q7/5ppk/1p2p1Np/5q2/3P4/P1r1P2P/3n1PPK/5R2 w - - 0 1"]
+[SetUp "1"]
+
+1. Ne7! { Las blancas amenzan con mate, si hacen Dg8. Si las negras hacen 1..h5, pierden su dama con 1.Cxf5 } { [%csl Gg8,Rh7,Rf5][%cal Ga8g8,Rg8h7,Ge7g8,Re7f5] } 1... h5 2. Nxf5 *
+
+
+[Event "Tácticas - 123ajedrez: Ataque Doble #10 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/aFdylot2"]
+[Result "*"]
+[UTCDate "2021.01.06"]
+[UTCTime "13:37:10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "k7/rpp2b2/p7/6K1/8/5Q2/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Qh3! (1. Qxf7? { No es buena opción que las blancas capturen al alfil así, pierden el mate. } { [%csl Ra8][%cal Gf7f8,Rf8a8] } 1... b6 2. Qf8+ Kb7) 1... Be6 { [%csl Gh8][%cal Re6h3,Gh3h8,Rh8a8] } 2. Qh8+ Bc8 (2... Bg8 3. Qxg8#) 3. Qxc8# *
+
+
+[Event "Tácticas - 123ajedrez: Clavada #1 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/pP2k3Qok"]
+[Result "*"]
+[UTCDate "2021.01.08"]
+[UTCTime "15:20:04"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r3k2r/pp2qppp/2p3b1/8/1Q1P1BP1/P4PN1/1PP4P/2KR4 w kq - 0 1"]
+[SetUp "1"]
+
+1. Re1! { La dama negra de e7 está clavada (absoluta), no se puede mover y evitar el ataque de la torre blanca de e1. } { [%csl Re7][%cal Re1e7,Rb4e7] } *
+
+
+[Event "Tácticas - 123ajedrez: Clavada #2 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/bYLkOO4x"]
+[Result "*"]
+[UTCDate "2021.01.08"]
+[UTCTime "15:25:36"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1bqkb1r/pp1npppp/2p2n2/8/3PN3/8/PPP1QPPP/R1B1KBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nd6# { El peón de las negras de e7 está clavado, la dama de las blancas amenaza otro jaque. } { [%csl Re8,Gd6][%cal Re2e8,Ge7d6] } *
+
+
+[Event "Tácticas - 123ajedrez: Clavada #3 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/fvck2udf"]
+[Result "*"]
+[UTCDate "2021.01.08"]
+[UTCTime "15:31:05"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "rnb1k2r/pp2qppp/2p5/3p4/3Pn3/2N1P3/PPQ2PPP/R3KBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nxd5 { Las blancas sacrifican su caballo en d5, para liberar la columna d } { [%csl Rd5,Gc8][%cal Rc6d5,Gc2c8,Rc8e8] } (1. Qa4? { [%csl Re8,Gc6][%cal Ra4e8] }) 1... cxd5 2. Qxc8+ { [%csl Gd8][%cal Ge7d8,Gf1b5,Rb5e8] } 2... Qd8 3. Bb5+ { [%csl Gf8,Rd8][%cal Ge8f8,Rc8d8] } 3... Kf8 4. Qxd8# { [%csl Re7,Re8][%cal Gb5e8,Gd8e7] } *
+
+
+[Event "Tácticas - 123ajedrez: Clavada #4 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/l4ioymo6"]
+[Result "*"]
+[UTCDate "2021.01.08"]
+[UTCTime "15:46:58"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b2k1r/ppq2pbp/4p1p1/1B1n4/8/P4N2/1P3PPP/R1BQR1K1 w Qkq - 0 1"]
+[SetUp "1"]
+
+1. Qxd5! { Las blancas sacrifican su dama en d6, para abrir la columna e y hacer mate. } { [%csl Rd5][%cal Re6d5] } 1... exd5 { Las negras tenían su peón de e6 clavado, porque evitaba el mate de las blancas con torre e8 (que está protegido por el alfil en b5) } { [%csl Ge8,Gd5][%cal Ge1e8,Re8f8] } 2. Re8# { [%csl Ge8][%cal Gb5e8] } *
+
+
+[Event "Tácticas - 123ajedrez: Clavada #5 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/kVlp72CC"]
+[Result "*"]
+[UTCDate "2021.01.08"]
+[UTCTime "16:09:08"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "4r1k1/1p1r1ppp/p3q3/4bR2/2PpP1Q1/3B4/PP4PP/5RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxe5 Qxg4?? { Si las negras capturan con su dama Dxg4, las blancas hacen "mate del pasillo" } (1... Qxe5 { [%csl Rd7][%cal Rg4d7] } 2. Qxd7 { Las blancas ganan un alfil }) 2. Rxe8# { [%csl Rg8][%cal Re8g8] } *
+
+
+[Event "Tácticas - 123ajedrez: Clavada #6 (Negras)"]
+[Site "https://lichess.org/study/H9xIhQOZ/denSB6GR"]
+[Result "*"]
+[UTCDate "2021.01.08"]
+[UTCTime "16:44:19"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1r5/5p1k/1bqp2pp/pR2p3/2P1P2P/1PR2NP1/2Q2P2/6K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Bd4! { Las negras sacrifican su alfil en d4 } { [%csl Rd4][%cal Rf3d4,Ge5d4] } 2. Nxd4 { [%csl Rd4][%cal Re5d4] } 2... exd4 { [%csl Gf3,Rb5][%cal Gc3f3,Rc6b5] } 3. Rf3 Qxb5 { Las blancas tienen al peón de c4 clavado, al moverlo pierden su dama } { [%csl Rb5,Rc2][%cal Rc4b5,Rc8c2] } 4. cxb5 Rxc2 { Las blancas ganan una torre } *
+
+
+[Event "Tácticas - 123ajedrez: Clavada #7 (Negras)"]
+[Site "https://lichess.org/study/H9xIhQOZ/gDyMTDvn"]
+[Result "*"]
+[UTCDate "2021.01.08"]
+[UTCTime "17:39:10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "6k1/ppb2pp1/2pq4/7p/3QP3/1PB2PP1/P6P/6K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Bb6! { Las negras hacen una clavada a la dama blanca, y se evitan el posible mate en g7 } { [%csl Rb6,Rd4,Gg7][%cal Rb6g1,Ga7b6,Gd4g7] } (1... Qxd4+? 2. Bxd4 Bb6 3. Bxb6 axb6) 2. Qxb6 { [%csl Rb6][%cal Ra7b6] } 2... axb6 { Las blancas pierden la dama, y el mate que podían hacer capturando el peón negro de g7 } *
+
+
+[Event "Tácticas - 123ajedrez: Clavada #8 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/Eo1TkFwq"]
+[Result "*"]
+[UTCDate "2021.01.08"]
+[UTCTime "17:55:48"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "1rq3k1/4p3/p2pr1pp/2p5/1pP1B3/1Pb1R1PP/P4P2/2QR1K2 w - - 0 1"]
+[SetUp "1"]
+
+1. Bd5! { Las negras tienen la torre clavada (absoluta) en e6, porque hace de escudo al rey } { [%csl Re6,Rg8][%cal Rd5g8] } 1... Be5! (1... Kg7 2. Bxe6 { [%csl Rc8,Ge6][%cal Re6c8,Ge3e6] }) 2. f4 { [%csl Gf4,Re5][%cal Gg3f4,Rf4e5] } 2... Kg7 3. Bxe6 { [%csl Ge5][%cal Gd6e5] } 3... Qf8 4. Bd5 *
+
+
+[Event "Tácticas - 123ajedrez: Clavada #9 (Negras)"]
+[Site "https://lichess.org/study/H9xIhQOZ/53qnqal7"]
+[Result "*"]
+[UTCDate "2021.01.08"]
+[UTCTime "18:12:56"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r2qr1k1/pbpn1pbp/1p1p2p1/8/1PPNP3/3Q4/PB1N1PPP/R3R1K1 b Qq - 0 1"]
+[SetUp "1"]
+
+ *
+
+
+[Event "Tácticas - 123ajedrez: Clavada #10 (Negras)"]
+[Site "https://lichess.org/study/H9xIhQOZ/d5aU39Hd"]
+[Result "*"]
+[UTCDate "2021.01.08"]
+[UTCTime "19:09:04"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "2b3k1/5pp1/7p/8/4BP2/1Pp3P1/4P1KP/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Bb7! { Las blancas tienen al alfil de e4 clavado, protege a su rey. } { [%csl Rb7][%cal Re4b7] } 2. Bxb7? { Las negras sacrifican su alfil en b7, para desviar el ataque de alfil blanco del peón, y poder coronar. } { [%csl Gc1][%cal Gc3c1] } 2... c2 { [%csl Gc1][%cal Gc2c1] } *
+
+
+[Event "Tácticas - 123ajedrez: Clavada #11 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/patNyOPA"]
+[Result "*"]
+[UTCDate "2021.01.08"]
+[UTCTime "19:11:11"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "1r3r1k/p1p3pp/2Qp4/4pP2/1PN1P3/2PP1q2/P6P/4RBK1 w - - 0 1"]
+[SetUp "1"]
+
+ *
+
+
+[Event "Tácticas - 123ajedrez: Desviación - Intro #1 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/GmIwdbRb"]
+[Result "*"]
+[UTCDate "2021.01.09"]
+[UTCTime "13:43:18"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b2r1k/pp3Rpp/2p5/2q2p2/8/1B6/P3QPPP/1R4K1 w q - 0 1"]
+[SetUp "1"]
+
+1. Qe5 { [%csl Gg7][%cal Ge5g7,Rf7g7] } 1... Qxe5?? (1... Rxf7! { Las negras sacrifican su dama, para evitar el mate } { [%csl Rc5][%cal Re5c5] } 2. Qxc5) 2. Rxf8# { Si las negras capturan la dama, las blancas hacen mate del pasillo con torre en f8 } *
+
+
+[Event "Tácticas - 123ajedrez: Desviación - Intro #2 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/5HDVyyBa"]
+[Result "*"]
+[UTCDate "2021.01.09"]
+[UTCTime "14:02:41"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "4r1k1/5qp1/8/3Q2K1/7R/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Rh8+! { Las blancas sacrifican su torre en h8, desviando la defensa del rey negro en f7 } { [%csl Rf7,Gh8][%cal Rd5f7,Gg8h8] } 1... Kxh8 2. Qxf7 *
+
+
+[Event "Tácticas - 123ajedrez: Desviación #1 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/mwLEQlFa"]
+[Result "*"]
+[UTCDate "2021.01.09"]
+[UTCTime "14:12:26"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "2b4k/2p1q1pp/1pP5/p7/5r2/P1Q2B1P/5PP1/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qe5! { Las blancas sacrifican su dama en e5, desviando la defensa de la dama negra en d8 } { [%csl Gd8,Rf4,Re7][%cal Ge7d8,Re5e7,Re5f4,Gd1d8] } 1... Qf8 (1... Qxe5 2. Rd8+ { [%csl Rh8,Re8,Rf8][%cal Rd8h8] }) 2. Qxf4 Qxf4?? { [%csl Gd8,Rh8,Rf8][%cal Gd1d8,Rd8h8] } 3. Rd8+ { Las blancas hacen el mate del pasillo } 3... Qf8 4. Rxf8# *
+
+
+[Event "Tácticas - 123ajedrez: Desviación #2 (Negras)"]
+[Site "https://lichess.org/study/H9xIhQOZ/kM8gi4xn"]
+[Result "*"]
+[UTCDate "2021.01.09"]
+[UTCTime "15:38:39"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "1r4k1/p3bppp/1qp1b3/8/4P3/P1NP4/1P1Q1PPP/2KR3R b K - 0 1"]
+[SetUp "1"]
+
+1... Bg5! { Las negras desvían la defensa de la dama blanca, sacrificando a su alfil en g5 } { [%csl Rg5,Rb2,Rc1][%cal Rd2g5,Rb6b2,Gb8b6] } 2. Qxg5 Qxb2# { [%csl Gb2][%cal Gb8b2] } *
+
+
+[Event "Tácticas - 123ajedrez: Desviación #3 (Negras)"]
+[Site "https://lichess.org/study/H9xIhQOZ/au64xhEQ"]
+[Result "*"]
+[UTCDate "2021.01.09"]
+[UTCTime "15:46:21"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "4k1r1/ppp4p/8/4p3/4P3/2N4n/PPP3rP/3R1R1K b - - 0 1"]
+[SetUp "1"]
+
+1... Rf2! { Las negras desvían la defensa de la torre blanca, para ejecutar un "Mate de la coz" } { [%csl Rf2][%cal Rf1f2,Gh3f2] } (1... Nf2+? 2. Rxf2 Rxf2) 2. Rxf2 Nxf2# { [%csl Rh1,Rg1,Rg2][%cal Rg8g1] } *
+
+
+[Event "Tácticas - 123ajedrez: Desviación #4 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/3UhkBC4q"]
+[Result "*"]
+[UTCDate "2021.01.09"]
+[UTCTime "16:06:30"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b3nr/ppqk1Bbp/2pp4/4P1B1/3n4/3P4/PPP2QPP/RN3RK1 w Q - 0 1"]
+[SetUp "1"]
+
+1. Qf5+! { Las blancas desvían al caballo que defiende d6, sacrificando a su dama } { [%csl Rf5,Ge6][%cal Rd4f5,Ge5e6,Re6d7] } 1... Nxf5 { [%csl Ge6][%cal Ge5e6,Re6d7,Gf7e6] } 2. e6# { [%csl Ge6,Rd7,Re8,Re7,Rd8][%cal Gf7e6,Re6d7,Rg5e7] } *
+
+
+[Event "Tácticas - 123ajedrez: Desviación #5 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/Zw619a1f"]
+[Result "*"]
+[UTCDate "2021.01.09"]
+[UTCTime "16:35:40"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r5rk/6qp/1p1b4/p1pPp1BQ/P1P1B3/2P3P1/7P/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bf6! { [%csl Rf6,Rh7][%cal Rg7f6,Rh5h7] } 1... Qxf6 { Las blancas desvían la defensa de la dama negra en h7, sacrificando su alfil } { [%csl Rh7][%cal Rh5h7] } (1... Raf8 2. Qxh7# { Las negras tienen la dama clavada, no puede atacar en h7 por el alfil de f6 que amenaza con jaque } { [%csl Gh7][%cal Ge4h7,Rf6h8] }) 2. Qxh7# { [%csl Gh7][%cal Ge4h7] } *
+
+
+[Event "Tácticas - 123ajedrez: Desviación #6 (Blancas)"]
+[Site "https://lichess.org/study/H9xIhQOZ/TeomNz55"]
+[Result "*"]
+[UTCDate "2021.01.09"]
+[UTCTime "17:00:18"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "1rbk1r2/ppp3pp/2Bb1p2/n5N1/3P4/2P3P1/P1P2K1P/1RB1R3 w - - 0 1"]
+[SetUp "1"]
+
+1. Nf7+ { Las blancas desvían la defensa de la torre de f8 que evita el mate, sacrificando al caballo en f7 } { [%csl Rf7,Rd8][%cal Rf8f7,Rf7d8] } 1... Rxf7 { [%csl Ge8,Rd8][%cal Ge1e8,Re8d8] } 2. Re8# { [%csl Ge8,Rd7,Re7][%cal Gc6e8] } *

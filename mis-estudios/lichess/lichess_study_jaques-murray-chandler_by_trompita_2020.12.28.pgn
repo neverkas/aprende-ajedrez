@@ -119,3 +119,169 @@
 
 { [%csl Gf7] }
 1. Qxh7+ { Sacrificamos a la dama para romper la columna H } { [%csl Rh7,Gh5][%cal Rh8h7,Ge5h5] } 1... Kxh7 2. Rh5+ Kg6 3. Bf7# { [%csl Gf7,Gh5,Rh6,Rf6,Rf5,Rg5,Rh7][%cal Gf1f7,Gf7h5] } *
+
+
+[Event "Jaques - Murray Chandler: Mate Árabe (Modelo #1B)"]
+[Site "https://lichess.org/study/AlyeM1c7/GhaStGbB"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "23:45:07"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "7k/2R5/5N2/8/8/8/5K2/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Rh7#! { El caballo de f6 defiende la torre e impide que el rey negro escape hacia g8 } { [%csl Rg8,Gh7][%cal Rf6g8,Gf6h7] } *
+
+
+[Event "Jaques - Murray Chandler: Mate Árabe (Modelo #2B)"]
+[Site "https://lichess.org/study/AlyeM1c7/RcJMs8vc"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "23:49:19"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "2R5/5pk1/5Np1/6P1/8/8/5K2/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Rg8#! { El peón blanco de g5 protege al caballo de f6, e impide que el rey negro se desvié hacia h6. El caballo protege a la torre, e impide que el rey se desplace hacia g7. La torre impide que el rey se mueva hacia f8 y h8. } { [%csl Gg8,Gf6,Rh7,Rf8,Rh8,Rh6][%cal Gf6g8,Gg5f6,Rf6h7,Rg5h6] } *
+
+
+[Event "Jaques - Murray Chandler: Mate Árabe (Modelo #3B)"]
+[Site "https://lichess.org/study/AlyeM1c7/Trz7GkA8"]
+[Result "*"]
+[UTCDate "2021.01.04"]
+[UTCTime "00:06:11"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "5r2/p3Qnkp/1p3Np1/2p3P1/3q4/5P2/PP3R1r/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qxf8+ { Las blancas sacrifican su dama, para que su caballo y torre hagan mate } { [%csl Rf8][%cal Rg7f8] } 1... Kxf8 { [%csl Rg8,Re8][%cal Ge1e8,Rf6g8,Rf6e8] } 2. Re8+ { El caballo blanco de f6 protege la torre de e8, el rey negro solo puede escapar hacia g7 } { [%csl Ge8,Rg8,Rh8,Re7][%cal Gf6e8,Gf8g7] } 2... Kg7 { El peón blanco de g5 protege al caballo de f6, e impide que el rey negro escape hacia h6 } { [%csl Gf6,Rh6][%cal Gg5f6,Rg5h6] } 3. Rg8# { El rey negro queda encerrado, mate. } { [%csl Rh6,Gf6,Gg8,Rh8,Rf8][%cal Rg5h6,Gg5f6,Gf6g8] } *
+
+
+[Event "Jaques - Murray Chandler: Mate Árabe (Modelo #4N)"]
+[Site "https://lichess.org/study/AlyeM1c7/GW8Mxd9I"]
+[Result "*"]
+[UTCDate "2021.01.04"]
+[UTCTime "00:19:36"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "3r2k1/5pq1/8/1P5p/4Q1pP/1N3nP1/5PK1/R7 b - - 0 1"]
+[SetUp "1"]
+
+1... Qxa1 2. Nxa1 Rd1 { [%csl Gh2,Gg1,Gf3,Ge8][%cal Gd1g1,Gg4f3,Rf3h2,Rf3g1,Rg1g2,Ge4e8] } 3. Qe8+ { No me convence el mate de las negras, porque las blancas seguirian haciendo jaque } 3... Kg7 4. Qe5+ Kf8 5. Qb8+ *
+
+
+[Event "Jaques - Murray Chandler: Mate Árabe (Modelo #5B)"]
+[Site "https://lichess.org/study/AlyeM1c7/FqZyLktv"]
+[Result "*"]
+[UTCDate "2021.01.04"]
+[UTCTime "01:41:10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "5k2/5p2/1p3Np1/p2p2P1/P2r4/1P3PK1/2R5/5b2 w - - 0 1"]
+[SetUp "1"]
+
+{ [%csl Ge2][%cal Gf1e2] }
+1. Rc8+!? { [%csl Re8,Rg8,Rh8] } (1. Rc1! Be2? (1... Ba6 2. Re1 { Suponiendo que las negras hacen una mala jugada, se plantea el Modelo 6B } { [%csl Re8,Re7,Rg8][%cal Rf6e8,Rf6g8,Gg5f6] }) 2. Rc8+ Ke7 3. Re8+ { La torre blanca hace una "Enfilada" contra el rey y el alfil, cuando el rey negro se mueva, el alfil será capturado } { [%csl Re7,Re2,Rd7,Ge8,Rd8,Rf8,Re6][%cal Re8e7,Re7e2,Rf6d7,Gf6e8] } 3... Kd6 { [%csl Re2][%cal Re8e2] } 4. Rxe2 { [%csl Re6,Re7,Rd7,Gc6,Gc5,Gc7] } 4... Kc6 { entonces... (?) }) 1... Kg7?? { [%csl Gf6,Rh7,Rh6][%cal Gg5f6,Rf6h7,Rg5h6] } 2. Rg8# { [%csl Gg8,Gf6,Rf8,Rh8,Rh7,Rh6][%cal Gf6g8,Gg5f6] } *
+
+
+[Event "Jaques - Murray Chandler: Mate Árabe (Modelo #6B)"]
+[Site "https://lichess.org/study/AlyeM1c7/ffRRJ26Z"]
+[Result "*"]
+[UTCDate "2021.01.04"]
+[UTCTime "02:15:25"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "5k2/5p2/bp3Np1/p2p2P1/P2r4/1P3PK1/8/4R3 w - - 0 1"]
+[SetUp "1"]
+
+1. Re8+ { [%csl Ge8,Re7,Rg8,Gf6][%cal Gf6e8,Rf6g8,Gg5f6] } 1... Kg7 { [%csl Gf6,Rh7,Rg8][%cal Gg5f6,Rf6h7,Rf6g8] } 2. Rg8# *
+
+
+[Event "Jaques - Murray Chandler: Mate Philidor (Modelo #1N)"]
+[Site "https://lichess.org/study/AlyeM1c7/MdejCANp"]
+[Result "*"]
+[UTCDate "2021.01.04"]
+[UTCTime "02:21:39"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "4r1k1/6pp/8/3Q2N1/8/8/6K1/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Kh8 { [%csl Gf7,Gg8][%cal Gg5f7,Rf7h8,Gh8g8] } 2. Nf7+ (2. Qg8+?) 2... Kg8 { [%csl Gf7,Rg8][%cal Gd5f7,Rg8f7] } 3. Nh6+ { [%csl Rg8,Gh8][%cal Rd5g8,Rh6g8] } 3... Kh8 (3... Kf8?? { [%csl Rf7][%cal Gd5f7,Rf7f8,Gh6g7] } 4. Qf7# { [%csl Re7,Rg8,Gf7][%cal Gh6f7,Rf7g8,Rf7e7] }) 4. Qg8+ Rxg8 5. Nf7# *
+
+
+[Event "Jaques - Murray Chandler: Mate Philidor (Modelo #2B)"]
+[Site "https://lichess.org/study/AlyeM1c7/a9LholKF"]
+[Result "*"]
+[UTCDate "2021.01.04"]
+[UTCTime "03:38:28"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r5k1/p1n2Npp/1p2Q3/1qpp2B1/2b5/2P5/P4PPP/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nh6+! { Las blancas hacen "Jaque Doble" } { [%csl Rg8,Gh8][%cal Rh6g8,Re6g8,Gg8h8] } 1... Kh8 { [%csl Gg8][%cal Ge6g8] } (1... Kf8? { Si el rey negro quiere escapar hacia e8, la torre, la dama y el caballo lo acorralan dando mate } 2. Qf5# { [%csl Re8,Rg8,Rf7,Re7][%cal Re1e8,Rf5f8,Rh6g8] }) 2. Qg8+ { Las blancas sacrifican su dama para que el rey negro quede encerrado } { [%csl Gg8][%cal Gh6g8,Ra8g8] } 2... Rxg8 { [%csl Gf7,Rh8][%cal Gh6f7,Rf7h8] } 3. Nf7# *
+
+
+[Event "Jaques - Murray Chandler: Mate Philidor (Modelo #3N)"]
+[Site "https://lichess.org/study/AlyeM1c7/ICn2LNug"]
+[Result "*"]
+[UTCDate "2021.01.04"]
+[UTCTime "03:49:45"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b1k2r/bpp2ppp/2n5/P7/2B1n3/BQPp4/3N1qPP/R3R2K b Qkq - 0 1"]
+[SetUp "1"]
+
+1... Qg1+! { Las negras hacen un sacrificio de atracción con su dama en g1, el caballo de e4 estaba clavado por su rey. } { [%csl Rg1,Re8,Re4][%cal Re1g1,Ga7g1,Re1e8] } 2. Rxg1 { [%csl Gf2,Rh1][%cal Ge4f2,Rf2h1] } 2... Nf2# { El rey negro queda encerrado, quedando en mate } { [%csl Rh1][%cal Rf2h1] } *
+
+
+[Event "Jaques - Murray Chandler: Mate Philidor (Modelo #4B)"]
+[Site "https://lichess.org/study/AlyeM1c7/VSOQHq17"]
+[Result "*"]
+[UTCDate "2021.01.04"]
+[UTCTime "04:07:01"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b2rk1/p3nNbp/1p3pp1/n1p1p3/4N3/1QPq2P1/PP3PBP/R1B1R1K1 w Qq - 0 1"]
+[SetUp "1"]
+
+1. Nh6+ { [%csl Rg8,Gh8][%cal Rb3g8,Rh6g8,Gg8h8] } 1... Kh8 { [%csl Rg8,Gf7][%cal Rb3g8,Rh6g8,Ge7f7,Gf8f7] } 2. Qg8+?? { [%csl Rg8,Gf7][%cal Re7g8,Gh6f7] } 2... Nxg8 3. Nf7+? Rxf7 *
+
+
+[Event "Jaques - Murray Chandler: Mate Philidor (Modelo #5B)"]
+[Site "https://lichess.org/study/AlyeM1c7/uNkVkJoa"]
+[Result "*"]
+[UTCDate "2021.01.04"]
+[UTCTime "04:56:15"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r2q2rk/pp4bp/2p1n1b1/3pPpN1/3P1P1Q/1P6/PB4BP/R4RK1 w Q - 0 1"]
+[SetUp "1"]
+
+1. Qxh7+! { Las blancas hacen un sacrificio de atracción con la dama en h7, porque el alfil de g6 evita el mate ahogado. } { [%csl Rh7,Gf7][%cal Rg6h7,Gg5f7] } 1... Bxh7 { [%csl Gf7,Rh8][%cal Gg5f7,Rf7h8] } 2. Nf7# { El rey negro queda encerrado, quedando en mate. } *

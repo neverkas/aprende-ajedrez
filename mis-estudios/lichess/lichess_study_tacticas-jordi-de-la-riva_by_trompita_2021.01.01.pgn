@@ -26,3 +26,48 @@
 [SetUp "1"]
 
 1. Rxd5 Qxd5 2. Rd1 { [%csl Rd8,Rd5][%cal Rd1d8] } 2... Qxd1+ 3. Qxd1+ *
+
+
+[Event "Tácticas - Jordi de la Riva: Ataque a pieza Clavada #Intro (1)x"]
+[Site "https://lichess.org/study/4qrOyEAi/SZVFl52w"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "22:21:38"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "1r5k/6pp/2b3q1/pr1p1R2/1PpP1PP1/P1Q5/6BP/1R4K1 b - - 0 1"]
+[SetUp "1"]
+
+1... Bd7 { [%csl Rf5,Rb1][%cal Rg6f5,Rf5b1,Rd7f5] } *
+
+
+[Event "Tácticas - Jordi de la Riva: Ataque a pieza Clavada #Intro (2)"]
+[Site "https://lichess.org/study/4qrOyEAi/qiXrarXs"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "22:26:59"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "2q3k1/7p/5np1/3P4/3Q4/2n5/P2R1PPP/4rNK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Qa6! { El caballo de las blancas está clavado por su rey, no puede huir } { [%csl Rf1][%cal Ra6f1,Re1f1] } 2. Qd3 { [%cal Ra6d3] } 2... Qxd3 { [%csl Rd3,Ge2,Rg1][%cal Rd2d3,Gc3e2,Re2g1] } 3. Rxd3 Ne2+ 4. Kh1 { [%csl Rg1,Rf1][%cal Re2g1,Re1f1] } 4... Rxf1# *
+
+
+[Event "Tácticas - Jordi de la Riva: Ataque a pieza Clavada #2.01B"]
+[Site "https://lichess.org/study/4qrOyEAi/dCjIiyV1"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "22:37:00"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "4q2k/3n1rpp/2B1p3/p1p2p2/2P4P/P5P1/P1Q1PP2/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxd7 (1. Qa4 { [%csl Gc6,Rd7][%cal Ga4c6,Rc6d7] }) 1... Rxd7 2. Qa4 { [%csl Re8,Gc6,Rd7][%cal Ra4e8,Ga4c6] } *

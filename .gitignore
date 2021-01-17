@@ -1,3 +1,9 @@
+# Custom
+#
+/gestores-de-partidas/*
+!/gestores-de-partidas/*.tar.gz
+!/gestores-de-partidas/*.tgz
+
 ### Emacs ###
 # -*- mode: gitignore; -*-
 *~

@@ -133,3 +133,139 @@
 [SetUp "1"]
 
 1. Nf6! { El caballo de las blancas tiene un "Ataque Doble" en d7, y amenaza mate si la dama ataca el peón negro de h7 } { [%csl Rh7,Rg8,Rd7,Ra8][%cal Rf6h7,Rf6g8,Re4h7,Rf6d7,Re4a8] } 1... Bxf6 { [%csl Ra8][%cal Re4a8] } 2. Qxa8+ { Si las negras evitan el mate comiendo el caballo de f6, pierden la torre en a8 } 2... Ne8 3. Qxe8+ Qxe8 4. Nxe8 { Las blancas ganan mejor material } *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Ataque Doble #4"]
+[Site "https://lichess.org/study/GWwm0uWW/yu4MDE4n"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "05:49:14"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b2rk1/pp1p1ppp/2n2n2/q1b5/2P5/P1N2NP1/3QPPBP/R1B1K2R b KQq - 0 1"]
+[SetUp "1"]
+
+{ [%csl Ge4] }
+1... Bxf2+ { [%csl Rf2,Rc3][%cal Re1f2,Ra5c3,Gd2c3] } 2. Kxf2 { [%csl Gf2][%cal Ra5c3,Gd2c3] } 2... Qxc3 3. Qxc3 { [%csl Ge4,Rf2,Rc3][%cal Gf6e4,Re4c3,Re4f2] } 3... Ne4+! { Las negras hacen que la dama y rey se posicionen donde querían, para que su caballo tenga un "Aataque Doble" } { [%cal Re4c3,Re4f2] } 4. Kg1 Nxc3 { Las negras ganan una pieza (el peón) } *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Capítulo 11"]
+[Site "https://lichess.org/study/GWwm0uWW/HGEyicqj"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "05:58:35"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "rnb2rk1/ppp2ppp/1b6/3qp3/8/3B4/PPP2PPP/R1BQK2R w KQq - 0 1"]
+[SetUp "1"]
+
+1. Bxh7+! { La dama negra no tiene defensa, las negras pierden su dama } { [%csl Rd5,Rh7][%cal Rd1d5,Gg8h7] } 1... Kxh7 { [%csl Rd5][%cal Rd1d5] } 2. Qxd5 *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Jaque descubierto #1"]
+[Site "https://lichess.org/study/GWwm0uWW/zTVXzE8V"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "06:05:24"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4N3/8/8/PPPPQPPP/RNB1KB1R w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nc6+! { No importa que movimiento hagan la negras, pierden su dama } { [%csl Re8,Rd8][%cal Re2e8,Rc6d8] } 1... Be7 (1... Qe7 2. Nxe7) 2. Nxd8 *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Jaque descubierto #2"]
+[Site "https://lichess.org/study/GWwm0uWW/3DoGYVO3"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "06:11:41"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r2nk1nr/ppp3pp/3p4/8/4B3/2P5/PP3PPP/R3R1K1 w Qkq - 0 1"]
+[SetUp "1"]
+
+1. Bg6+! { Las blancas hacen un jaque descubierto al mover su alfil a g6 } { [%csl Re8][%cal Re1e8] } 1... Kd7 (1... Kf8 2. Re8#) 2. Be8+ { Grau dice que es mate, porque (?) } *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Mate Philidor #1"]
+[Site "https://lichess.org/study/GWwm0uWW/7E9Ckdjf"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "06:25:53"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r6k/6pp/q7/3Q2N1/8/8/6PP/7K w - - 0 1"]
+[SetUp "1"]
+
+1. Nf7+! { [%csl Rg8][%cal Gh8g8,Rd5g8] } 1... Kg8 { [%csl Rg8][%cal Gd5g8] } 2. Nh6+ { [%cal Rg7h6] } 2... Kh8 { [%csl Gg8][%cal Gd5g8,Ra8g8] } 3. Qg8+! { Las blancas sacrifican su dama en g8, para lograr mate con su caballo en f7 } { [%csl Rg8,Gf7][%cal Ra8g8,Gh6f7,Gf7h8] } 3... Rxg8 4. Nf7# { El rey negro queda encerrado, y pierden la partida. Apesar que podían hacer jaque mate } { [%csl Ra1,Rh1][%cal Ga6a1,Ra1h1] } *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Mate Philidor #2"]
+[Site "https://lichess.org/study/GWwm0uWW/sBOjZVQ5"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "06:33:58"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "4r1k1/2p1P1pp/2p5/p4pN1/5Qn1/q5P1/P3PP1P/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qc4+ { [%csl Rg8][%cal Rc4g8,Ge8g8] } 1... Kh8 { [%csl Rg8][%cal Rc4g8,Ge8g8] } 2. Nf7+ { [%csl Rh8][%cal Rf7h8,Gh8g8] } (2. Qg8+! { Las blancas sacrifican a su dama, para atraer a la torre negra a g8 y encerrar a su propio rey. Pero puede falla el mater si el rey negro come a la dama. } 2... Rxg8 { [%csl Gf7][%cal Gg5f7,Rf7h8] } (2... Kxg8) 3. Nf7# { El rey negro queda encerrado, terminando en mate }) 2... Kg8 { [%csl Gf7][%cal Rg8f7,Gc4f7] } 3. Nh6+ Kh8 4. Qg8+ { La dama blanca no puede ser atacada por el rey negro, por el caballo de h6 } { [%csl Gg8][%cal Gh6g8,Re8g8] } 4... Rxg8 { [%csl Gf7,Rh8][%cal Gh6f7,Rf7h8] } 5. Nf7# *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Mate Philidor #3 (Negras)"]
+[Site "https://lichess.org/study/GWwm0uWW/7Nos92K7"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "20:23:32"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "7Q/r2pk1pp/p3p3/1pb3q1/4n3/8/PPP2PPP/RN3RK1 b Q - 0 1"]
+[SetUp "1"]
+
+1... Bxf2+ { [%csl Rf2,Gc1,Rg1][%cal Rf1f2,Gg5c1,Rc1g1] } 2. Rxf2 Qc1+ { [%csl Gf1,Ge3,Rg1][%cal Gf2f1,Gc1e3,Re3g1] } 3. Rf1 Qe3+ { [%csl Gf2][%cal Gf1f2] } 4. Kh1 (4. Rf2 { [%cal Re3f2] } 4... Qxf2+ { Alternativa que se me habia ocurrido (?) } { [%csl Gf2,Gh1,Rf1][%cal Ge4f2,Gg1h1] } 5. Kh1 Qf1#) 4... Nf2+ 5. Kg1 Nh3+ { Doble jaque hacia las blancas } { [%cal Re3g1,Rh3g1] } 6. Kh1 Qg1+ { [%csl Gg1][%cal Gh3g1] } 7. Rxg1 Nf2# { El rey queda encerrado, terminando en mate } { [%csl Rh1][%cal Rf2h1] } *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Mate Philidor #4 (Blancas)"]
+[Site "https://lichess.org/study/GWwm0uWW/qRtQMaio"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "20:48:59"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "rnbk3r/ppppn1pp/3b4/6NQ/8/8/PPPP1P1P/RNB1KB1q w Qkq - 0 1"]
+[SetUp "1"]
+
+1. Nf7+! { Las blancas hacen jaque con el caballo en f7, obligan a que el rey negro se mueva a d8 } { [%csl Rf7][%cal Gh5f7] } 1... Ke8 { [%csl Gf7][%cal Gh5f7] } 2. Nxd6+ { Las blancas hacen "Doble Jaque", además que era un "Jaque Descubierto" } { [%csl Gd8][%cal Rd6e8,Rh5e8,Ge8d8] } 2... Kd8 3. Qe8+ { Las blancas sacrifican su dama, para atraer a la torre negra y encerrar a su propio rey. El rey negro no puede comer a la dama en d8, el caballo la protege. } { [%csl Ge8][%cal Gd6e8] } 3... Rxe8 4. Nf7# { [%csl Rd8][%cal Rf7d8] } *
+
+
+[Event "Tacticas - Volumen II (Roberto Grau): Mate Philidor #5 (Blancas)"]
+[Site "https://lichess.org/study/GWwm0uWW/PpYtwAFs"]
+[Result "*"]
+[UTCDate "2021.01.03"]
+[UTCTime "20:57:20"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r6k/6pp/q7/3Q2N1/8/8/6PP/7K w - - 0 1"]
+[SetUp "1"]
+
+1. Nf7+! { [%csl Gf7,Rh8][%cal Gd5f7,Rf7h8,Gh8g8] } (1. Qg8+? { Es un error hacer jaque de esta manera } 1... Kxg8) 1... Kg8 { [%csl Gf7,Gh6][%cal Gd5f7,Gf7h6] } 2. Nh6+ { [%csl Rg8][%cal Rh6g8,Rd5g8] } 2... Kh8 3. Qg8+ { [%csl Gg8][%cal Gh6g8,Ra8g8] } 3... Rxg8 4. Nf7# *
