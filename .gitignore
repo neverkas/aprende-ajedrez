@@ -4,6 +4,7 @@
 /gestores-de-partidas/*
 /modulos-de-analis/*
 # Excluimos del ignore los archivos .tar.gz y .tgz (que si aparezcan)
+!/modulos-de-analisis/stockfish/bin/README.org
 !/gestores-de-partidas/*.tar.gz
 !/gestores-de-partidas/*.tgz
 !/modulos-de-analisis/*.zip

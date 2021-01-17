@@ -1,0 +1,2 @@
+El ejecutable de stockfish es sólo un archivo agregarlo en este directorio,
+a modo de mantener una estructura ordenada de módulos de análisis.
