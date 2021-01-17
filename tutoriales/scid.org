@@ -1,0 +1,28 @@
+#+TITLE: Tutorial SCID
+
+* Comandos de Atajo
+
+  Los comandos de atajo son sensibles a las minúsculas y mayúsculas
+
+  #+NAME: atajos-scid
+  |------------+----------------------------------------|
+  | Atajo      | Descripción                            |
+  |------------+----------------------------------------|
+  | Ctrl+N     | Nueva partida                          |
+  | Ctrl+S     | Agregar Partida (a la base de datos)   |
+  | Ctrl+s     | Reemplazar partida (guardar cambios)   |
+  | Ctrl+l     | Listar todas las partidas              |
+  | Ctrl+B     | Editar Posicion (piezas del tablero)   |
+  | Ctrl+Space | Probar variación (movimiento temporal) |
+  |------------+----------------------------------------|
+  | Ctrl+A     | Motor de Análisis                      |
+  | Ctrl+m     | Mantenimiento                          |
+  |------------+----------------------------------------|
+
+
+* Ventajas
+Algunas ventajas que fui y voy descubriendo son
+  1. Al agregar nuevas partidas sugiere texto en los campos (Evento, Lugar, ..) de otras partidas, evitando volver a escribirlo
+  2. Asignarle fecha a las partidas, útil al momento de aplicar filtros de búsqueda
+  3. Agregar metadatos a cada partida (Evento, Lugar, Jugadores, Fecha,..)
+  4. Al importar partidas a una base de datos, esta se actualiza de forma automática.

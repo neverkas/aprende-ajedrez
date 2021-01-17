@@ -431,3 +431,196 @@
 [SetUp "1"]
 
 1. Nf7+ { Las blancas desvían la defensa de la torre de f8 que evita el mate, sacrificando al caballo en f7 } { [%csl Rf7,Rd8][%cal Rf8f7,Rf7d8] } 1... Rxf7 { [%csl Ge8,Rd8][%cal Ge1e8,Re8d8] } 2. Re8# { [%csl Ge8,Rd7,Re7][%cal Gc6e8] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque descubierto (Intro)"]
+[Site "https://lichess.org/study/H9xIhQOZ/kdDpDbYY"]
+[Result "*"]
+[UTCDate "2021.01.16"]
+[UTCTime "14:21:33"]
+[Variant "Standard"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation"]
+[Annotator "https://lichess.org/@/trompita"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 cxd4 5. cxd4 Qb6 6. Bd3 Qxd4?? { Grave error por las negras } { [%csl Gb5,Re8,Rd4][%cal Gd3b5,Rb5e8,Rd1d4] } 7. Bb5+ { Las negras se ven obligados a proteger a su rey, perdiendo a su dama en d4 } { [%csl Re8,Rd4][%cal Rb5e8,Rd1d4] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque descubierto #1"]
+[Site "https://lichess.org/study/H9xIhQOZ/s0VMspMv"]
+[Result "*"]
+[UTCDate "2021.01.16"]
+[UTCTime "14:57:57"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r3r1k1/1ppR2p1/p1p1n2p/2q5/4Q3/2N2PP1/PPP4P/3R3K b q - 0 1"]
+[SetUp "1"]
+
+1... Nf8! { [%csl Rd7][%cal Rf8d7] } 2. Qf5 { [%csl Rd7,Rc5][%cal Rf8d7,Rd7c5] } 2... Nxd7 { [%csl Gc5][%cal Gd7c5,Rf5c5] } (2... Qxf5?!) 3. Qxd7 { Las negras ganan "calidad", cambian torre por caballo } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque descubierto #2"]
+[Site "https://lichess.org/study/H9xIhQOZ/EQU6jbWs"]
+[Result "*"]
+[UTCDate "2021.01.16"]
+[UTCTime "15:16:07"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "b4rk1/3n1ppp/1q2p3/1p6/1p1P4/5NP1/1PQ1PPBP/R5K1 w Q - 0 1"]
+[SetUp "1"]
+
+1. Ng5! { Las blancas ejecutan una doble amenaza con mate, y con capturar al alfil negro de a8 } { [%csl Rg8,Rh8][%cal Rc2h7,Gg5h7] } 1... Nf6 { Las negras evitan el mate } { [%csl Gh7,Ra8][%cal Gf6h7,Ra1a8] } 2. Rxa8 { [%csl Ra8][%cal Rf8a8,Gg2a8] } 2... Rxa8 3. Bxa8 { Las blancas ganan calidad (las negras pierden su alfil) } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque descubierto #3"]
+[Site "https://lichess.org/study/H9xIhQOZ/ec0VYyXk"]
+[Result "*"]
+[UTCDate "2021.01.16"]
+[UTCTime "16:02:39"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b2rk1/2qp1ppp/p3pn2/1p2n3/1b2P3/1NN1BP2/PPPQ2PP/1K1R1B1R w Kq - 0 1"]
+[SetUp "1"]
+
+1. Nxb5! { Las blancas hacen una doble amenaza con su caballo y dama. } { [%csl Rb4,Rc7][%cal Rd2b4,Rb5c7] } 1... axb5 { Si las negras comen el caballo en b5, pierden material (Un alfil por un caballo) } { [%csl Rb4][%cal Rd2b4] } (1... Bxd2 { Si las negras capturan a la dama, pierden material (la dama, y luego una torre de a8) } { [%csl Rc7,Ra8][%cal Rb5c7,Rc7a8] } 2. Nxc7 { [%csl Ra8,Re3][%cal Rc7a8,Rd2e3] } 2... Bxe3 3. Nxa8) 2. Qxb4 *
+
+
+[Event "Tácticas - 123ajedrez: Ataque descubierto #4"]
+[Site "https://lichess.org/study/H9xIhQOZ/J4JToJhh"]
+[Result "*"]
+[UTCDate "2021.01.16"]
+[UTCTime "17:06:59"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r3r1kb/5p1p/1pp3pB/4P2P/p2P2n1/2P3N1/bqBQ2P1/R4RK1 w Qq - 0 1"]
+[SetUp "1"]
+
+1. Rxa2! { [%csl Rg6,Rf7,Rg8,Ra2][%cal Rc2g6,Rg6f7,Rf7g8,Rb2a2] } 1... Qxa2 2. Bxg6 { [%csl Rf7,Rg8,Rd2][%cal Rg6f7,Rh6f8,Gf1f7,Ra2d2] } 2... Qxd2?? (2... hxg6 3. Qxa2 { [%cal Rh6f8,Ra2f7,Rf1f7] }) 3. Bxf7# *
+
+
+[Event "Tácticas - 123ajedrez: Ataque descubierto #5"]
+[Site "https://lichess.org/study/H9xIhQOZ/nN9ABoYH"]
+[Result "*"]
+[UTCDate "2021.01.16"]
+[UTCTime "18:49:57"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1q1kb1r/5ppp/pnp5/4B3/8/1P4P1/4QP1P/R4RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bxg7+! { Las blancas hacen doble amenaza, con jaque y a la torre de h8 con su alfil } { [%csl Rh8,Ge6][%cal Gc8e6,Rg7h8,Re2e6] } 1... Qe6 { [%csl Re6,Rh8][%cal Re2e6,Gf7e6,Rg7h8] } 2. Qxe6+ { Las negras estan obligadas a comer la dama y perder la torre } { [%csl Rh8,Re6][%cal Rg7h8,Rf7e6] } 2... fxe6 3. Bxh8 { Las blancas ganan material (la torre) } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque descubierto #6"]
+[Site "https://lichess.org/study/H9xIhQOZ/4ZmiHoYK"]
+[Result "*"]
+[UTCDate "2021.01.16"]
+[UTCTime "19:18:02"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "rnbqkb1r/ppp2ppp/5n2/3pN3/8/3P4/PPP1QPPP/RNB1KB1R w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nc6+! { Las blancas hacen "jaque descubierto", amenazan con jaque y capturar la dama negra. } { [%csl Rd8,Re8,Re7][%cal Re2e8,Rc6d8,Rc6e7] } 1... Qe7 { [%csl Re7][%cal Rc6e7,Gf8e7] } (1... Be7 2. Nxd8) 2. Nxe7 Bxe7 { El alfil negro queda clavado por su rey } { [%csl Ge7] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque descubierto #7"]
+[Site "https://lichess.org/study/H9xIhQOZ/IK56HQDz"]
+[Result "*"]
+[UTCDate "2021.01.16"]
+[UTCTime "19:27:52"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "2bq2rk/5p1p/p2p1p2/1p2pP2/1P2P3/Pn1PBR1Q/6PP/7K w - - 0 1"]
+[SetUp "1"]
+
+1. Qxh7+! { Las blancas sacrifican su dama para liberar la columna h } { [%csl Gh3][%cal Gf3h3,Rh3h7] } 1... Kxh7 { [%csl Gh3,Rh7][%cal Gf3h3,Rh3h7] } 2. Rh3+ { [%csl Gg7,Rg6,Rh7][%cal Gh7g7,Rf5g6,Rh3h7] } 2... Kg7 { [%csl Rh7,Rh8,Rg5,Rh6,Gf8,Rg6][%cal Gg7f8] } 3. Bh6+ { [%csl Rg7,Rg6,Gh6][%cal Rf5g6,Gh3h6,Rh6g7] } 3... Kh7 (3... Kh8 4. Bf8# { [%csl Rg7,Rh7,Rh8][%cal Rf8g7,Rh3h7] }) 4. Bf8# { [%csl Rh6,Rg7,Rh7,Rh8,Rg6][%cal Rf8h6,Rh3h6,Rf5g6] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque descubierto #8"]
+[Site "https://lichess.org/study/H9xIhQOZ/d0Alp0qj"]
+[Result "*"]
+[UTCDate "2021.01.16"]
+[UTCTime "22:45:46"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "5r2/p4pbk/1p2p2p/1P2q3/P3N1p1/2R3P1/2Q2PP1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nf6+! (1. Ng5+! Kh8 2. Qh7#) 1... Kh8 { [%csl Gf6,Rg8,Gh7][%cal Rf6g8,Gc2h7] } 2. Qh7# { [%csl Rg8][%cal Rf6g8] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque descubierto #9"]
+[Site "https://lichess.org/study/H9xIhQOZ/pFGLbbYc"]
+[Result "*"]
+[UTCDate "2021.01.17"]
+[UTCTime "03:55:13"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "rn1qkb1r/5pp1/p2p3p/2pb1P2/1p6/5N2/PPP1B1PP/R1B1R1K1 w Qkq - 0 1"]
+[SetUp "1"]
+
+1. Bb5#! { Las blancas hacen un "jaque al descubierto" quedando en mate } { [%csl Re8,Rd7,Re7][%cal Re1e8,Rb5e8] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque descubierto #10"]
+[Site "https://lichess.org/study/H9xIhQOZ/WHisSMmT"]
+[Result "*"]
+[UTCDate "2021.01.17"]
+[UTCTime "04:04:14"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "r1b1k2r/ppppqppp/5n2/4nN2/1b3B2/2P5/PP3PPP/RN1QKB1R b KQkq - 0 1"]
+[SetUp "1"]
+
+1... Nf3#! { Las negras hacen un "jaque doble descubierto", quedando en mate } { [%csl Re1,Rd2][%cal Rf3e1,Rf3d2,Re7e1] } *
+
+
+[Event "Tácticas - 123ajedrez: Ataque descubierto #11"]
+[Site "https://lichess.org/study/H9xIhQOZ/DFvXDbej"]
+[Result "*"]
+[UTCDate "2021.01.17"]
+[UTCTime "04:11:31"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "1nrqnr2/p3bppk/bpp1p2p/4P3/3PNB2/1P3NP1/3Q1PBP/R2R2K1 w Q - 0 1"]
+[SetUp "1"]
+
+1. Rxa6! { Las blancas sacrifican su torre en a6 para hacer un "jaque doble descubierto" } 1... Nxa6 { [%csl Gd3,Gf6,Rg8,Rh7,Rg6][%cal Gd2d3,Gd3h7,Ge4f6,Gf6g8] } 2. Qd3 { Si las negras evitan el mate, las blancas ganan material (torre a cambio de alfil+caballo) } { [%csl Gf6,Rg8,Rh7,Ra6][%cal Ge4f6,Rd3h7,Rd3a6] } 2... Kh8! { [%csl Ra6][%cal Rd3a6] } (2... Nb4?? 3. Nf6+ { Las blancas ejecutan el "jaque doble descubierto" y están a dos pasos del mate } { [%cal Rf6h7,Rd3h7] } 3... Kh8 4. Qh7#) 3. Qxa6 *
+
+
+[Event "Tácticas - 123ajedrez: Ataque descubierto #12"]
+[Site "https://lichess.org/study/H9xIhQOZ/8N0qn2JV"]
+[Result "*"]
+[UTCDate "2021.01.17"]
+[UTCTime "05:02:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/trompita"]
+[FEN "3r1rk1/4bppp/n1q5/1p2p3/8/PB2B3/1PPQ2PP/1K1R1R2 w - - 0 1"]
+[SetUp "1"]
+
+1. Qxd8! { Las blancas sacrifican a su dama y capturan, para desviar la atención del "jaque descubierto" } { [%cal Gd1d8,Rf8d8] } (1. Rxf7!? { Alternativa propia (?) } 1... Rxf7 { [%csl Gg8,Gf7][%cal Gb3g8] } 2. Bg5 Bxg5 3. Qxd8+ Qe8 4. Qxe8#) 1... Rxd8 { [%csl Rd8][%cal Rd1d8,Ge7d8] } 2. Rxd8+ Bxd8 { [%csl Rf7,Ge8][%cal Rf1f7,Gb3f7,Gc6e8] } 3. Rxf7! { Las blancas amenazan con un "jaque descubierto", que luego será mate } { [%csl Rg8][%cal Rb3g8] } 3... Qe8 { [%csl Rg8][%cal Gf7e7,Rb3g8,Re7e8] } 4. Re7+ { [%csl Rg8,Re8][%cal Rb3g8,Re7e8] } 4... Kh8 5. Rxe8# *

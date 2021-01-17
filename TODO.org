@@ -1,9 +1,10 @@
-* [TODO] Crear partidas en scid como en lichess
-* [TODO] Crear plugin jQuery para pasar el tablero de Trello a Org Mode
+- [ ] Configurar base de datos en base a las partidas de lichess
+- [X] Crear partidas en scid como en liches
+- [X] Crear plugin jQuery para pasar el tablero de Trello a Org Mode
   Trello permite exportar los datos del tablero a json
 
-* [TODO] Sincronizar tareas entre Trello y Org Mode
+- [X] Sincronizar tareas entre Trello y Org Mode
     Posterior a poder exportar el contenido
     En dispositivos moviles es más práctico usar trello
-* [DONE] Problemas de submodulos de repositorios del modulo de analisis y del gestor de base de datos
+- [X] Problemas de submodulos de repositorios del modulo de analisis y del gestor de base de datos
   
