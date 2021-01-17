@@ -1,8 +1,12 @@
 # Custom
 #
+# Ignoramos todos los subdirectorios (que no aparezcan)
 /gestores-de-partidas/*
+/modulos-de-analis/*
+# Excluimos del ignore los archivos .tar.gz y .tgz (que si aparezcan)
 !/gestores-de-partidas/*.tar.gz
 !/gestores-de-partidas/*.tgz
+!/modulos-de-analisis/*.zip
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
