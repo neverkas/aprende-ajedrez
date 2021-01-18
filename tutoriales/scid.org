@@ -1,5 +1,6 @@
 #+TITLE: Tutorial SCID
-
+* Base de Datos
+  - Al hacer cambios en la ventana de Mantenimiento (Ej. borrar partidas), es necesario *Compactar* la base de datos.
 * Comandos de Atajo
 
   Los comandos de atajo son sensibles a las minúsculas y mayúsculas
@@ -18,7 +19,6 @@
   | Ctrl+A     | Motor de Análisis                      |
   | Ctrl+m     | Mantenimiento                          |
   |------------+----------------------------------------|
-
 
 * Ventajas
 Algunas ventajas que fui y voy descubriendo son
