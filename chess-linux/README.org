@@ -1,0 +1,7 @@
+* Referencias
+- Para el 1ro hay que cambiar la ruta de donde tengas el binario de stockfish,
+suelen recomendar apuntar a /usr/games/ pero es en cualquier ruta que tengas ese archivo
+- Para el 2do se recomienda aumentar el tamaño de la fuente, es muy chico
+
+1. https://itsfoss.com/play-chess-linux-terminal/
+2. https://blog.hartwork.org/posts/gnu-chess-6-1-0-introducing-graphic-terminal-mode/
